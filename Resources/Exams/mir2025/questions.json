@@ -1,0 +1,3625 @@
+[
+  {
+    "id": "mir2025-001",
+    "number": 1,
+    "examId": "mir2025",
+    "specialty": "Traumatología y Cirugía Ortopédica",
+    "statement": "En un adolescente de 17 años con dolor de rodilla de tres meses de evolución, antecedente de traumatismo leve y esta radiografía, ¿cuál de las siguientes entidades debe considerarse en el diagnóstico diferencial según la clínica y la imagen radiográfica (IMAGEN 1)?:",
+    "options": [
+      "Osteosarcoma.",
+      "Osteomielitis subaguda.",
+      "Osteocondritis disecante.",
+      "Tumor de células gigantes."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [
+      "imagen_1"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-002",
+    "number": 2,
+    "examId": "mir2025",
+    "specialty": "Traumatología y Cirugía Ortopédica",
+    "statement": "¿Cuál de los siguientes hallazgos radiográficos es más útil para diferenciar osteosarcoma de otras causas de dolor crónico de rodilla en adolescentes (IMAGEN 2)?:",
+    "options": [
+      "Lesión lítica con bordes bien definidos y sin reacción periostal.",
+      "Lesión con patrón mixto lítico-esclerótico y reacción periostal tipo triangulo de Codman.",
+      "Lesión subcondral con colapso de la placa ósea.",
+      "Lesión con calcificaciones puntiformes y sin masa de partes blandas."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [
+      "imagen_2"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-003",
+    "number": 3,
+    "examId": "mir2025",
+    "specialty": "Angiología y Cirugía Vascular",
+    "statement": "Ingresa una paciente de 83 años para tratamiento de aneurisma de aorta abdominal de 50mm de diámetro, por crecimiento rápido en los últimos 6 meses. Entre sus antecedentes destaca: hipertensión arterial, dislipemia, portadora de marcapasos por bloqueo auriculo-ventricular completo como antecedentes. Veinticuatro horas tras la cirugía la paciente presenta distensión, dolor abdominal y rectorragias, acompañado de leucocitosis 32.100μl, con el 95% de neutrófilos y 278 de LDH como únicas alteraciones analíticas, por lo que se realiza un angio-tomografia computerizada, con la siguiente imagen (IMAGEN 3). ¿Cuál es el diagnóstico más probable?:",
+    "options": [
+      "Isquemia mesentérica aguda.",
+      "Isquemia mesentérica crónica.",
+      "Isquemia mesentérica no oclusiva.",
+      "Colitis isquémica."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [
+      "imagen_3"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-004",
+    "number": 4,
+    "examId": "mir2025",
+    "specialty": "Cirugía General y del Aparato Digestivo",
+    "statement": "Mujer de 36 años que acude a la consulta por una tumoración a nivel abdominal. Como antecedentes destaca que es alérgica a penicilinas, es exfumadora y que tuvo una diabetes gestacional durante un embarazo gemelar. A la exploración observas los siguientes hallazgos (IMAGEN 4). ¿Cuál es el diagnóstico más probable?:",
+    "options": [
+      "Eventración con ‘pérdida de derecho a domicilio’.",
+      "Hernia epigástrica.",
+      "Hernia de Spiegel.",
+      "Diástasis de rectos."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [
+      "imagen_4"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-005",
+    "number": 5,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Varón de 58 años con antecedente de colelitiasis en una ecografía abdominal que se hizo por otra causa. Refiere dolor abdominal continuo en epigastrio – hipocondrio derecho que irradia hacia la espalda. El dolor le ha comenzado tras la ingesta y ha cedido parcialmente tras tomar un espasmolítico. Así mismo refiere que se nota un poco amarillo y que la orina es muy oscura. Constantes: Tensión arterial 140/75mmHg; Frecuencia cardiaca 100lpm; Temperatura 36,8ºC. A la exploración presenta dolor a la palpación en hipocondrio derecho con signo de Murphy negativo. En la analítica de sangre: Bilirrubina total de 4 mg/dl con bilirrubina directa de 3,5 mg/dl, amilasa y lipasa normal, no tiene leucocitosis. ¿Cuál es la sospecha diagnóstica y tratamiento que aplicarías?: Usa las imágenes de ayuda (IMÁGENES 5a y 5b).",
+    "options": [
+      "Cólico biliar por colelitiasis y Colecistectomía.",
+      "Cólico biliar por coledocolitiasis, CPRE (Colangiopancreatografia retrógrada endoscópica) y colecistectomía.",
+      "Colangitis y CPRE (Colangiopancreatografia retrógrada endoscópica).",
+      "Neoplasia de vía biliar extrahepática y cirugía oncológica."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [
+      "imagen_5a",
+      "imagen_5b"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-006",
+    "number": 6,
+    "examId": "mir2025",
+    "specialty": "Genética",
+    "statement": "Según los árboles genealógicos representados, en relación a los patrones de herencia de las familias A, B y C, señale la opción correcta de las siguientes (IMAGEN 6):",
+    "options": [
+      "En la familia A, el riesgo de un afectado/a de transmitir la enfermedad a su descendencia es del 25%.",
+      "En la familia B, la representación del árbol genealógico se corresponde claramente con el patrón hereditario típico de una enfermedad mitocondrial.",
+      "La familia C podría representar el patrón de herencia típico de una hemofilia A.",
+      "La consanguinidad está presente y representada en el árbol genealógico de la familia A."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [
+      "imagen_6"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-007",
+    "number": 7,
+    "examId": "mir2025",
+    "specialty": "Oftalmología",
+    "statement": "La mácula rojo cereza es un signo clínico que se observa en el contexto de engrosamiento y pérdida de transparencia de la retina del polo posterior. En el fondo de ojo se aprecia una mancha roja brillante en el centro de la mácula rodeada de una retina blanquecina (IMAGEN 7). ¿En cuál de las siguientes entidades NO es típico observarla?:",
+    "options": [
+      "Enfermedad de Tay-Sachs.",
+      "Distrofia coroidea areolar central.",
+      "Oclusión de arteria central de la retina.",
+      "Enfermedad de Niemann-Pick."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [
+      "imagen_7"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-008",
+    "number": 8,
+    "examId": "mir2025",
+    "specialty": "Otorrinolaringología",
+    "statement": "Un paciente presenta una audiometría normal de oído izquierdo, y la audiometría del oído derecho es como se muestra en la siguiente imagen (IMAGEN 8). ¿Cómo se comportará la acumetría realizada con un diapasón de 512 Hz?:",
+    "options": [
+      "Rinne (+) en oído derecho y Weber lateraliza al oído derecho.",
+      "Rinne (–) en oído derecho y Weber lateraliza oído izquierdo.",
+      "Rinne (+) en oído derecho y Weber lateraliza oído izquierdo.",
+      "Rinne (–) en oído derecho y Weber lateraliza oído derecho."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [
+      "imagen_8"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-009",
+    "number": 9,
+    "examId": "mir2025",
+    "specialty": "Dermatología",
+    "statement": "En agosto 2025 acude a su consulta del Centro de Salud Alejandro de 18 años acompañado por su madre, que un poco enfadada le dice: “Enséñale las manos al doctor. Dice que no sabe lo que le ha pasado, claro cómo está todo el día de fiesta a saber que ha hecho. El último fin de semana, fiesta de mojitos en la piscina con sus amigos”. El paciente le refiere que no tiene dolor, leve prurito y actualmente no toma ninguna medicación. Usted, tras la exploración física (IMAGEN 9) y la anamnesis cree haber llegado al diagnóstico. ¿Cuál de estas afirmaciones en base a su presunto diagnóstico es FALSA?:",
+    "options": [
+      "Le preguntará si fue el encargado de exprimir la lima de los mojitos.",
+      "Le informará de la probable evolución favorable, aunque la hiperpigmentación residual podría ser muy persistente.",
+      "La prevención consiste, en evitar el contacto con la sustancia en cuestión y, cuando ello no sea posible, medidas fotoprotectoras.",
+      "El mecanismo fisiopatológico más probable en este caso sería una Hipersensibilidad tipo IV mediada por linfocitos T."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [
+      "imagen_9"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-010",
+    "number": 10,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Paciente de 70 años con antecedentes de infarto anterior hace 15 años tratado con stent coronario. Portador de marcapasos por antecedentes de bloqueo auriculoventricular, con ecocardiografía reciente con fracción de eyección del ventrículo izquierdo del 25%. Refiere la familia encontrarle más cansado y somnoliento desde hace dos días y con incremento de su disnea habitual. En urgencias las constantes son: frecuencia cardíaca 80 lpm, tensión arterial 75/45 mmHg, saturación de O2 basal 86% y la frecuencia respiratoria 35 rpm. A la exploración física llama la atención la frialdad de las extremidades que además presentan edemas con fóvea. El electrocardiograma es el siguiente (IMAGEN 10a) y la radiografía de tórax es la siguiente (IMAGEN 10b). ¿Cuál de las siguientes medidas terapéuticas le parecen las más adecuadas en la fase aguda del paciente?:",
+    "options": [
+      "Ventilación no invasiva tipo Bilevel Positive Airway Pressure (BIPAP), furosemida intravenosa, dobutamina o noradrenalina intravenosa.",
+      "Oxígeno en reservorio, furosemida intravenosa, nitroglicerina intravenosa y betabloqueantes.",
+      "BIPAP, furosemida intravenosa, dobutamina o noradrenalina intravenosa, Inhibidor de la Enzima Convertidora de Angiotensina (IECA), espironolactona, estatina y betabloqueante.",
+      "BIPAP, furosemida intravenosa, sacubitrilo-valsartán, empaglifozina, betabloqueante, espironolactona y estatina."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [
+      "imagen_10a",
+      "imagen_10b"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-011",
+    "number": 11,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Acude a urgencias un paciente con palpitaciones desde hace 3 horas y presenta el siguiente electrocardiograma (IMAGEN 11). ¿Cuál de las siguientes afirmaciones es verdadera?:",
+    "options": [
+      "Se trata de una fibrilación auricular y realizaría cardioversión eléctrica si el paciente la tolerase mal hemodinámicamente.",
+      "Se trata de un flutter auricular común. Lo cardiovertiría si está mal tolerado y lo indicado es la ablación del istmo cavotricuspídeo como primera opción.",
+      "Se trata de una taquicardia por reentrada intranodal y administraría un bolo de adenosina intravenosa.",
+      "Se trata de una fibrilación auricular preexcitada y administraría un bolo de betabloqueante intravenoso."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [
+      "imagen_11"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-012",
+    "number": 12,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "Paciente de 70 años fumador de 2 paquetes de cigarrillos al día. Acude a urgencias por disnea, plétora facial, edema en esclavina y cianosis. Se realiza una Tomografía axial computerizada (TAC) de tórax en el que se observan las siguientes imágenes (IMAGEN 12a y 12b). ¿Cuál es el diagnóstico más probable?:",
+    "options": [
+      "Carcinoma microcítico de pulmón.",
+      "Linfoma de Hodgkin.",
+      "Metástasis de carcinoma no microcítico de pulmón.",
+      "Carcinoma tímico."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [
+      "imagen_12a",
+      "imagen_12b"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-013",
+    "number": 13,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Acude a urgencias un varón de 57 años, diagnosticado de una cirrosis etílica, sin descompensaciones previas, que mantiene un consumo de 2-3 cervezas al día. Ha comenzado con ictericia indolora en la última semana. En la exploración física únicamente destacan una franca ictericia cutánea y mucosa y ligeros edemas en ambas extremidades inferiores, sin ascitis. En la analítica encontramos hemoglobina: 11 g/dL, volumen corpuscular medio: 113 fL, Plaquetas 63*10⁹/L, AST: 90 UI/L, ALT: 35 UI/L, gamma-glutamiltransferasa: 60 UI/L, bilirrubina total: 10 mg/dL, bilirrubina conjugada: 2.5 mg/dL, albúmina: 36 g/L, gammaglobulinas: 16 g/dL, ferritina: 500 mcg/L, saturación de transferrina: 59%, haptoglobina menor de 8 mg/dL. La morfología de sangre periférica es la que se muestra en la imagen (IMAGEN 13). ¿Cuál es su diagnóstico?:",
+    "options": [
+      "Hepatitis alcohólica.",
+      "Hemocromatosis.",
+      "Anemia hemolítica autoinmune.",
+      "Acantocitosis."
+    ],
+    "correctIndex": null,
+    "annulled": true,
+    "images": [
+      "imagen_13"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-014",
+    "number": 14,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Varón de 55 años con antecedentes de consumo de alcohol mayor de 100 g/día desde la juventud, diagnosticado de enfermedad hepática crónica. Ingresa por una hemorragia digestiva alta por varices esofágicas, falleciendo a las 48 horas. Se realiza una autopsia. Macroscópicamente el hígado es micronodular. En la imagen microscópica llama la atención la presencia de glóbulos que se tiñen de forma intensa con la tinción de PAS (IMAGEN 14). ¿A qué corresponden esos glóbulos de la imagen?:",
+    "options": [
+      "Vacuolas lipídicas.",
+      "Hialina de Mallory.",
+      "Alfa-1-antitripsina.",
+      "Megamitocondrias."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [
+      "imagen_14"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-015",
+    "number": 15,
+    "examId": "mir2025",
+    "specialty": "Nefrología",
+    "statement": "Se muestra la biopsia (IMAGEN 15) de un paciente afecto de una enfermedad sistémica que puede afectar a múltiples órganos. En la exploración presta especial atención a la posible afectación neurológica. ¿Cuál de estos hallazgos le parece más probable en esta situación?:",
+    "options": [
+      "Hipotensión ortostática sin respuesta cronotrópica adecuada.",
+      "Nistagmo horizontal.",
+      "Edema de papila.",
+      "Debilidad muscular proximal sin alteraciones sensitivas."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [
+      "imagen_15"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-016",
+    "number": 16,
+    "examId": "mir2025",
+    "specialty": "Ginecología y Obstetricia",
+    "statement": "Mujer de 63 años de edad con diagnóstico de cáncer de endometrio estadio I. Ha sido intervenida mediante histerectomía radical más linfadenectomía pélvica y para-aórtica, finalizando con radioterapia. En la exploración física se objetiva un signo de Stemmer positivo. Tras visualizar la imagen (IMAGEN 16), ¿cuál de estas opciones considera que es la correcta?:",
+    "options": [
+      "La paciente presenta una linfangitis, que se tratará mediante pauta de amoxicilinaclavulánico durante 10 días.",
+      "La paciente tiene un lipedema, que se tratará con actividad física de bajo impacto con el objetivo de mejorar la circulación.",
+      "La paciente presenta un linfedema, que se tratará mediante prenda de presoterapia a medida y drenaje linfático manual.",
+      "La paciente presenta una sospecha de trombosis venosa profunda en la extremidad, por lo que solicitaremos un estudio de imagen con doppler vascular para confirmar el diagnóstico."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [
+      "imagen_16"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-017",
+    "number": 17,
+    "examId": "mir2025",
+    "specialty": "Dermatología",
+    "statement": "Un hombre de 67 años, exfumador y jubilado del entorno rural consulta por una lesión en el labio inferior, con dolor tanto espontáneo como a la palpación. Refiere que, aunque recuerda lesiones en los labios desde hace años, desde hace un mes y medio la lesión presenta el aspecto que se observa en la imagen (IMAGEN 17). ¿Cuál es la actitud más adecuada en este momento?:",
+    "options": [
+      "Iniciar tratamiento supresor con aciclovir oral para reducir el número de recurrencias de herpes labial.",
+      "Iniciar tratamiento con imiquimod tópico y fotoprotección del labio inferior.",
+      "Tomar una biopsia de labio para descartar un carcinoma invasivo de células escamosas del labio inferior.",
+      "Sospechar una úlcera neuropática secundaria a neuropatía del trigémino y remitir para valoración por Neurología."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [
+      "imagen_17"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-018",
+    "number": 18,
+    "examId": "mir2025",
+    "specialty": "Dermatología",
+    "statement": "Una mujer de 62 años, hipertensa y diabética, consulta por dos úlceras muy dolorosa localizadas en la pierna derecha de 6 meses de evolución. Las lesiones han sido tratadas con curas locales, antibióticos sistémicos de amplio espectro y analgesia, sin respuesta terapéutica y con crecimiento progresivo. A la exploración física, las lesiones muestran el aspecto que se observa en la imagen (IMAGEN 18). ¿Cuál es la actitud más adecuada en este momento?:",
+    "options": [
+      "Realizar una biopsia de piel para estudio microbiológico de micobacterias y micosis profundas.",
+      "Realizar cultivos seriados, desbridamiento quirúrgico y antibioterapia intravenosa con ertapenem y medidas de compresión.",
+      "Realizar una eco-Doppler venosa y medidas de compresión.",
+      "Realizar biopsia de piel para confirmación diagnóstica y a continuación iniciar tratamiento con prednisona oral (0,5-1,5 mg/kg/día)."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [
+      "imagen_18"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-019",
+    "number": 19,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Hombre de 79 años, con insuficiencia cardíaca leve, hipertensión arterial, dislipemia y diabetes mellitus tipo II que trata con valsartán, simvastatina y metformina. Consulta por prurito intenso generalizado de más de 6 meses de evolución, que no cede con antihistamínicos a dosis habituales. El paciente presenta lesiones polimorfas, de aspecto urticariano y otras lesiones excoriadas y descamativas (IMAGEN 19), que se distribuyen fundamentalmente en el abdomen y en las extremidades, y sin lesiones en la cara. Se realiza una biopsia de piel en la que se observa un intenso infiltrado eosinofílico subepidérmico con algunos eosinófilos alineados en la unión dermo-epidérmica. Indique cuál considera la actitud más adecuada en este momento:",
+    "options": [
+      "Consideraría aumentar la dosis de antihistamínicos hasta dosis cuádruple de lo recomendado en la ficha técnica.",
+      "Iniciaría tratamiento con prednisona oral a dosis de 0,5-0,75 mg/kg/día.",
+      "Iniciaría tratamiento con ivermectina oral.",
+      "Suspender inmediatamente los medicamentos que toma e iniciar tratamiento parenteral con metilprednisolona y dexclorfeniramina."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [
+      "imagen_19"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-020",
+    "number": 20,
+    "examId": "mir2025",
+    "specialty": "Dermatología",
+    "statement": "Una mujer de 35 años que toma anticonceptivos orales presenta las lesiones que se observan en la imagen (IMAGEN 20). Estas lesiones se localizan en el dorso de las manos, en el cuello y aparecieron unos días después de un ingreso hospitalario por dolor abdominal sin diagnóstico, y que ha motivado ingresos anteriores. La paciente refiere historia previa de aparición de lesiones similares que cree relacionar con la exposición solar, así como lesiones ante cualquier mínimo traumatismo de la piel. Cuál de los siguientes es el diagnóstico más probable:",
+    "options": [
+      "Porfiria aguda intermitente.",
+      "Porfiria variegata.",
+      "Porfiria cutánea tarda.",
+      "Déficit de ALA-deshidratasa."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [
+      "imagen_20"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-021",
+    "number": 21,
+    "examId": "mir2025",
+    "specialty": "Dermatología",
+    "statement": "Un lactante de 8 meses presenta desde hace 2 semanas eritema de la zona del pañal (IMAGEN 21) que ha sido tratado durante los últimos días con emolientes y cremas barrera. ¿Cuál es el tratamiento más adecuado en este momento?:",
+    "options": [
+      "Suspender las cremas actuales y aplicar corticoide tópico de potencia media.",
+      "Mantener la higiene habitual, dejar el área del pañal seca y ventilada, y aplicar antifúngico tópico (nistatina o imidazólico).",
+      "Mantener la higiene, con secado riguroso de la zona, aplicar una pasta al agua y cambiar el pañal con más frecuencia.",
+      "Aplicar corticoide tópico combinado con antibiótico y antifúngico de forma empírica durante 10-14 días."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [
+      "imagen_21"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-022",
+    "number": 22,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "Varón de 56 años, fumador de 1 paquete/día desde los 14 hasta los 55 de edad, que acude por primera vez para estudio de clínica de disnea progresiva grado 2 de la modified Medical Research Councyldyspneascale (mMRC), junto con tos y expectoración crónica no purulenta. Refiere queen el año previo ha tenido dos agudizaciones que le han llevado a urgencias del hospital donde fue valorado, evitando el ingreso. En el hemograma de rutina presenta 305 eosinófilos/µl. La espirometría se presenta en la imagen adjunta (IMAGEN 22). ¿Cuál de las siguientes afirmaciones es correcta según el documento GOLD 2025?:",
+    "options": [
+      "Se trata de un paciente con enfermedad pulmonar obstructiva crónica (EPOC), GOLD 3E y debe tratarse con doble terapia broncodilatadora.",
+      "Se trata de un paciente con EPOC, GOLD 3B y debe tratarse con triple terapia inhalada (LABA/LAMA/ICS).",
+      "Se trata de un paciente con EPOC, GOLD 3E y debe tratarse con triple terapia inhalada (LAMA/LABA/ICS).",
+      "Se trata de un paciente con EPOC, GOLD 3A y debe tratarse con un solo broncodilatador de acción prolongada (LAMA o LABA)."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [
+      "imagen_22"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-023",
+    "number": 23,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Paciente de 53 años sin antecedentes de interés que acude a urgencias por epigastralgia intensa que irradia difusamente al resto del abdomen. Había consultado en urgencias 3 días antes y se le dio el alta con paracetamol que fue efectivo. Reacude ahora por persistencia del dolor con sensación distérmica, náuseas y vómitos que condicionan la ingesta oral. En la exploración tiene un abdomen duro con dolor difuso que mejora con la flexión ventral del tronco. Se le realiza una radiografía de abdomen en la que se observa lo que muestra la imagen (IMAGEN 23). ¿Cuál es la principal sospecha diagnóstica?:",
+    "options": [
+      "Obstrucción de intestino grueso.",
+      "Perforación gástrica.",
+      "Suboclusión de intestino delgado.",
+      "Íleo adinámico."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [
+      "imagen_23"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-024",
+    "number": 24,
+    "examId": "mir2025",
+    "specialty": "Hematología y Hemoterapia",
+    "statement": "Un varón de 69 años consulta por astenia y adelgazamiento. En la exploración física, presenta esplenomegalia de 5 cm por debajo del reborde costal. En el hemograma, hemoglobina de 10 g/dl y plaquetas de 630.000/mcrl, y presencia de leucoeritroblastosis en el frotis de sangre periférica. Revisando su historial analítico comprobamos que ya se observaba una cifra similar de plaquetas cinco años atrás, pero la hemoglobina y el frotis eran normales. Se realiza un aspirado de médula ósea que resulta seco. En la biopsia ósea de solicita una tinción con plata para medirreticulina (IMAGEN 24). El estudio genético revela la presencia de la variantepatogénicaenJAK2 que genera el cambio V617F y unavariantepatogénicaenASXL1. ¿Cuál es el diagnóstico más probable de este paciente?:",
+    "options": [
+      "Mielofibrosis post trombocitemia esencial.",
+      "Aplasia medular.",
+      "Leucemia mielomonocítica crónica.",
+      "Leucemia mieloide crónica."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [
+      "imagen_24"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-025",
+    "number": 25,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Paciente de 56 años, con antecedentes de Diabetes Mellitus tipo 2, obesidad y fumador de 20 cigarrillos diarios. Consulta en urgencias por un episodio de dolor torácico con mareo tras una discusión con un familiar. El electrocardiograma es normal y la primera troponina es de 14. Siguiendo el protocolo se le va a seriar la troponina por lo que está esperando en un box de urgencias monitorizado. Mientras espera comienza con mareo, por lo que avisa al personal de enfermería que cuando llega al box se lo encuentra inconsciente, sin respiración y con un ritmo en el monitor como el de la imagen (IMAGEN 25). Se comienza con compresiones y ventilaciones con una secuencia 30:2. ¿Cuál sería la siguiente acción?:",
+    "options": [
+      "Administrar Adrenalina intravenosa.",
+      "Administrar Amiodarona intravenosa.",
+      "Realizar una desfibrilación.",
+      "Realizar una cardioversión eléctrica."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [
+      "imagen_25"
+    ],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-026",
+    "number": 26,
+    "examId": "mir2025",
+    "specialty": "Medicina Preventiva y Salud Pública",
+    "statement": "¿Cuál de los siguientes NO es uno de los cinco momentos de la higiene de manos recomendados por la Organización Mundial de la Salud?:",
+    "options": [
+      "Antes del contacto con el entorno del paciente.",
+      "Antes de tocar al paciente.",
+      "Después de tocar al paciente.",
+      "Después del contacto con el entorno del paciente."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-027",
+    "number": 27,
+    "examId": "mir2025",
+    "specialty": "Medicina Preventiva y Salud Pública",
+    "statement": "En relación con el sobrediagnóstico, señale la afirmación INCORRECTA:",
+    "options": [
+      "Se considera un efecto indeseado de los cribados poblacionales.",
+      "Se debe principalmente a la obtención de resultados falsos positivos en pruebas diagnósticas.",
+      "Una de sus principales consecuencias es el sobretratamiento.",
+      "Su reducción es uno de los objetivos de la prevención cuaternaria."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-028",
+    "number": 28,
+    "examId": "mir2025",
+    "specialty": "Medicina Preventiva y Salud Pública",
+    "statement": "En materia de seguridad del paciente, todo evento que haya derivado en la muerte del paciente o la pérdida permanente e importante de una función, de carácter imprevisto y sin relación con la evolución natural de la enfermedad o el trastorno subyacente del paciente, se denomina:",
+    "options": [
+      "Cuasi-incidente.",
+      "Factor contribuyente.",
+      "Infracción.",
+      "Evento centinela."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-029",
+    "number": 29,
+    "examId": "mir2025",
+    "specialty": "Medicina Preventiva y Salud Pública",
+    "statement": "¿Qué tipo de sesgo se comete cuando se asume que una asociación observada a nivel poblacional también existe a nivel individual?:",
+    "options": [
+      "Sesgo o falacia ecológica.",
+      "Sesgo de atención o efecto Hawthorne.",
+      "Falacia de Neyman o sesgo de prevalencia o de incidencia.",
+      "Sesgo de regresión a la media."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-030",
+    "number": 30,
+    "examId": "mir2025",
+    "specialty": "Medicina Preventiva y Salud Pública",
+    "statement": "¿Cuál de las siguientes NO se considera una infección relacionada con la asistencia sanitaria?:",
+    "options": [
+      "Paciente hospitalizado que desarrolla una infección por Clostridium difficile con inicio de síntomas tras 48 horas de ingreso.",
+      "Paciente sometido a cirugía mayor ambulatoria que desarrolla una infección de localización quirúrgica con inicio de síntomas a los 25 días de la intervención.",
+      "Paciente hospitalizado, portador de sondaje vesical desde su colocación en urgencias, que desarrolla una infección del tracto urinario con inicio de síntomas a las 72 horas de ingreso.",
+      "Paciente hospitalizado que desarrolla una neumonía con inicio de síntomas a las 24 horas de su ingreso."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-031",
+    "number": 31,
+    "examId": "mir2025",
+    "specialty": "Medicina Preventiva y Salud Pública",
+    "statement": "¿Cuál de los siguientes NO se considera un grupo de riesgo que requiera vacunación frente al Virus de la Hepatitis A?:",
+    "options": [
+      "Pacientes diagnosticados de VIH.",
+      "Pacientes candidatos a trasplante hepático.",
+      "Pacientes diagnosticados de asplenia anatómica o disfunción esplénica grave.",
+      "Pacientes diagnosticados de enfermedad hepática crónica."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-032",
+    "number": 32,
+    "examId": "mir2025",
+    "specialty": "Medicina Preventiva y Salud Pública",
+    "statement": "En materia de calidad asistencial, un indicador es una medida que nos informa sobre el progreso hacia la consecución de determinados objetivos. Según el modelo de Donabedian, pueden clasificarse como indicadores de estructura, de proceso y de resultado ¿Cuál de los siguientes es un indicador de resultado?:",
+    "options": [
+      "Ratio de camas hospitalarias en funcionamiento, por cada 1.000 habitantes.",
+      "Proporción de partos por cesárea.",
+      "Incidencia de infecciones relacionadas con la asistencia sanitaria.",
+      "Ratio de personal médico en atención primeria, por cada 1.000 habitantes."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-033",
+    "number": 33,
+    "examId": "mir2025",
+    "specialty": "Medicina Preventiva y Salud Pública",
+    "statement": "Señale el enunciado INCORRECTO:",
+    "options": [
+      "La tasa de incidencia acumulada de una enfermedad depende tanto de la incidencia como de la duración del período de medición.",
+      "La tasa de incidencia acumulada es una aproximación útil de la incidencia cuando la tasa es alta o cuando el período de estudio es largo.",
+      "La tasa de incidencia requiere la utilización de una unidad de tiempo.",
+      "La prevalencia incrementa con una mayor duración de la enfermedad."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-034",
+    "number": 34,
+    "examId": "mir2025",
+    "specialty": "Medicina Preventiva y Salud Pública",
+    "statement": "¿En cuál de las siguientes enfermedades debe indicarse precauciones exclusivamente de transmisión por gotas?:",
+    "options": [
+      "Neumonía por Virus Respiratorio Sincitial.",
+      "Gripe.",
+      "Tuberculosis pulmonar activa.",
+      "Sarampión."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-035",
+    "number": 35,
+    "examId": "mir2025",
+    "specialty": "Enfermedades Infecciosas",
+    "statement": "Mujer de 73 años que ingresa en el hospital por cuadro de fiebre, dolor en hipocondrio derecho e hipotensión. Tras reanimación con fluidos se agrava la hipotensión y requiere intubación y conexión a ventilación mecánica. Se realiza una Tomografía axial computerizada (TAC) de abdomen observándose datos de colecistitis gangrenosa con gas y engrosamiento irregular de la pared. Se realiza colecistostomía de drenaje e ingresa en la Unidad de cuidados intensivos (UCI). Se inicia tratamiento con piperacilina-tazobactam. Dos días después la paciente se encuentra en disfunción multiorgánica (SOFA 11 puntos), conectada a ventilación mecánica y requiriendo noradrenalina y vasopresina. Se recibe el siguiente hemocultivo: ANTIBIOGRAMA: CMI (mg/L) Ampicilina R > 8 Amoxicilina-Clav R > 32 Piperacilina-Taz S 4 Cefotaxima R >2 Ceftazidima R > 8 Cefepime R > 8 Azteronam R > 4 Ertapenem S < 0,12 Imipenem S < 1 Meropenem S < 0,12 Gentamicina S < 2 Ciprofloxacino S 0,25 Con estos datos, ¿cuál es la respuesta CORRECTA respecto al tratamiento antibiótico de esta paciente?:",
+    "options": [
+      "Mantener piperacilina-tazobactam.",
+      "Mantener piperacilina-tazobactam añadiendo un aminoglucósico.",
+      "Suspender piperacilina-tazobactam e iniciar meropenem.",
+      "Suspender piperacilina-tazobactam e iniciar ciprofloxacino."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-036",
+    "number": 36,
+    "examId": "mir2025",
+    "specialty": "Enfermedades Infecciosas",
+    "statement": "Mujer de 44 años con antecedentes de neoplasia de mama en tratamiento con quimioterapia que ingresa en la unidad de cuidados intensivos (UCl) con insuficiencia respiratoria. Requiere intubación y conexión a ventilación mecánica. Se realiza fibrobroncoscopia con lavado bronco-alveolar y se aísla Nocardia farcinica pendiente de antibiograma. ¿qué actitud terapéutica cree CORRECTA?:",
+    "options": [
+      "Iniciar tratamiento con voriconazol más trimetroprin-sulfametoxazol.",
+      "Iniciar tratamiento con trimetroprin-sulfametoxazol.",
+      "Iniciar tratamiento con trimetroprin-sulfametoxazol más meropenem.",
+      "Iniciar tratamiento con trimetroprin-sulfametoxazol más imipenem más amikacina."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-037",
+    "number": 37,
+    "examId": "mir2025",
+    "specialty": "Enfermedades Infecciosas",
+    "statement": "Señale la respuesta CORRECTA respecto al manejo inicial de un paciente en shock séptico:",
+    "options": [
+      "No debe iniciarse el tratamiento con un vasopresor hasta que se haya finalizado la reanimación con fluidos.",
+      "Hoy en día, la vasopresina es el primer vasopresor a emplear.",
+      "El objetivo es mantener una Presión arterial sistólica > 90 mmHg.",
+      "En caso de no disponer de un acceso venoso central y no lograr el objetivo hemodinámico podemos iniciar el tratamiento con vasopresores por un acceso venoso periférico."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-038",
+    "number": 38,
+    "examId": "mir2025",
+    "specialty": "Enfermedades Infecciosas",
+    "statement": "Respecto al diagnóstico de la enfermedad por citomegalovirus, señale la respuesta INCORRECTA:",
+    "options": [
+      "La infección primaria en personas inmunocompetentes ocasiona una respuesta de anticuerpos IgM e IgG, estos últimos detectables de por vida en la mayoría de los pacientes, mientras que los anticuerpos IgM se negativizan en menos de 30 días.",
+      "El cultivo del CMV en fibroblastos humanos produce un efecto citopático característico entre los 7 y los 28 días.",
+      "La determinación periódica de la carga viral en sangre se realiza en los receptores de trasplante de alto riesgo de enfermedad como guía para el tratamiento anticipado.",
+      "Los métodos de reacción en cadena de la polimerasa (PCR) en tiempo real son de elección por sensibilidad y especificidad si bien el número de copias indicativas de infección activa varía según la técnica empleada y si se realiza en sangre total o plasma."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-039",
+    "number": 39,
+    "examId": "mir2025",
+    "specialty": "Enfermedades Infecciosas",
+    "statement": "En un paciente con infección por el virus de inmunodeficiencia humana (VIH) y alta sospecha de infección respiratoria por Micobacteria, una PCR negativa del complejo Micobacterium tuberculosis en un lavado broncoalveolar NO excluye infección por una de las siguientes especies. Señálela:",
+    "options": [
+      "Micobacterium bovis.",
+      "Micobacterium tuberculosis.",
+      "Micobacterium kansasii.",
+      "Micobacterium africanum."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-040",
+    "number": 40,
+    "examId": "mir2025",
+    "specialty": "Enfermedades Infecciosas",
+    "statement": "¿Cuál es la duración del tratamiento antifúngico en un paciente que sufre una candidemia no complicada (se han descartado endocarditis u otras causas de metástasis a distancia y el paciente ha quedado asintomático)?:",
+    "options": [
+      "Dos semanas tras el primer hemocultivo negativo.",
+      "Dos semanas tras el hemocultivo en el que se aísla Candida spp.",
+      "Una semana tras el hemocultivo en el que se aísla Candida spp.",
+      "Tres semanas."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-041",
+    "number": 41,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "¿Cuál de las siguientes es una medida preventiva para reducir el riesgo del síndrome de muerte súbita del lactante?:",
+    "options": [
+      "Se ha de promover la posición de decúbito lateral en la cuna para evitar aspiraciones accidentales durante el sueño.",
+      "En hermanos de niños fallecidos por este síndrome, se ha de retrasar la vacunación de los 2 a los 6 meses de edad.",
+      "Se recomienda el sueño del lactante sobre una superficie blanda y con la cabecera incorporada 30º sobre plano.",
+      "Se debe evitar el sobrecalentamiento de la habitación, así como la exposición al humo del tabaco."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-042",
+    "number": 42,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "¿Cuál es una manifestación de la fase febril aguda de la enfermedad de Kawasaki?:",
+    "options": [
+      "Inyección ocular conjuntival bilateral no exudativa.",
+      "Descamación de los dedos de las manos y los pies.",
+      "Trombopenia menor de 100.000 plaquetas/mm3.",
+      "Aparición de los aneurismas coronarios."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-043",
+    "number": 43,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "Lactante de 2 meses alimentado con lactancia materna exclusiva. ¿Con qué vitamina se recomienda suplementar su alimentación?:",
+    "options": [
+      "No se recomienda ningún suplemento vitamínico en niños sanos a término.",
+      "Vitamina D.",
+      "Vitamina C.",
+      "Hierro oral desde los 2 meses."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-044",
+    "number": 44,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "¿Cuál de las siguientes afirmaciones sobre vacunas vivas atenuadas en edad pediátrica es correcta?:",
+    "options": [
+      "Por su perfil de seguridad para el feto, pueden administrarse durante cualquier periodo del embarazo.",
+      "Se recomienda retrasar su administración en niños que han recibido recientemente inmunoglobulinas inespecíficas a altas dosis.",
+      "Dado que no se trata de virus salvajes, pueden administrarse en niños con inmunosupresión grave.",
+      "Ya no forman parte de los calendarios oficiales de vacunación pediátrica de nuestro país."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-045",
+    "number": 45,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "¿Cuál es la afirmación correcta con respecto al síndrome hemolítico urémico en edad pediátrica?:",
+    "options": [
+      "El Campylobacter productor de toxina es el agente bacteriano más frecuentemente involucrado en las formas asociadas a diarrea.",
+      "La insuficiencia renal combinada con hemólisis puede provocar hiperpotasemia potencialmente grave.",
+      "Cuando está asociado a bacterias entéricas productoras de toxinas shiga o verotoxinas, es más frecuente en adolescentes que en menores de 5 años.",
+      "En los casos asociados a diarrea por E. coli O157:H7, el tratamiento antibiótico precoz con quinolonas mejora el pronóstico del paciente."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-046",
+    "number": 46,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "¿Cuál de las siguientes señales elevan la sospecha de un posible maltrato físico en urgencias pediátricas?:",
+    "options": [
+      "Historia coherente con la lesión y el mecanismo lesional referido por su cuidador.",
+      "Hematomas u otras lesiones en diferentes estadios evolutivos, afectación de zonas no expuestas o protegidas, lesiones pares, simétricas o con forma de objeto.",
+      "Rasguños leves en zonas expuestas al juego.",
+      "Lesiones compatibles con molluscu contagiosum en tronco, axilas y miembros superiores."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-047",
+    "number": 47,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "¿Cuál de los siguientes enunciados es correcto respecto al síndrome de dificultad respiratoria del recién nacido prematuro (anteriormente denominado enfermedad de membrana hialina)?:",
+    "options": [
+      "Existe un mayor riesgo de aparición por la administración de corticoides a la madre gestante.",
+      "Aparece con menor frecuencia en niños nacidos por cesárea.",
+      "Es más frecuente en embarazos únicos que en múltiples.",
+      "Existe una deficiencia de surfactante pulmonar por distintos mecanismos, muchos de ellos asociados a la prematuridad."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-048",
+    "number": 48,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "¿Cuál es el tratamiento de elección en lactantes hospitalizados por bronquiolitis aguda?:",
+    "options": [
+      "Broncodilatadores inhalados rutinarios.",
+      "Anticuerpos monoclonales frente al virus respiratorio sincitial, como palivizumab o nirsevimab.",
+      "Manejo sintomático, vigilancia y medidas de soporte cuando estén indicadas, como la oxigenoterapia, la hidratación y aspiración de secreciones.",
+      "Corticoides sistémicos o nebulizados."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-049",
+    "number": 49,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "¿Cuál es la opción correcta con respecto al trastorno del espectro autista en edad pediátrica?:",
+    "options": [
+      "Afecta por igual a ambos sexos.",
+      "La presencia de comorbilidades en edad pediátrica es excepcional.",
+      "Los síntomas aparecen ya en las primeras fases del de desarrollo, pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas.",
+      "No es posible su diagnóstico en menores de 36 meses, dadas las variabilidades fisiológicas del desarrollo psicomotor."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-050",
+    "number": 50,
+    "examId": "mir2025",
+    "specialty": "Oncología Médica",
+    "statement": "Respecto al cáncer de mama:",
+    "options": [
+      "Presenta una incidencia por edad con un pico entre los 50 y 60 años que se reduce a partir de esta edad.",
+      "El carcinoma ductal in situ se estadifica como estadio .",
+      "El tipo histológico más frecuente es el carcinoma lobulillar infiltrante.",
+      "La mayoría de los casos de cáncer de mama se desarrollan en mujeres con riesgo genético para padecerlo."
+    ],
+    "correctIndex": null,
+    "annulled": true,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-051",
+    "number": 51,
+    "examId": "mir2025",
+    "specialty": "Ginecología y Obstetricia",
+    "statement": "Una mujer de 35 años consulta por baches amenorreicos de 3-6 meses en el último año y el estudio hormonal muestra los siguientes niveles séricos de gonadotropinas hipofisarias: FSH: 80 U/L y LH: 51 U/L ¿en qué diagnóstico deberíamos pensar?:",
+    "options": [
+      "Insuficiencia o fallo ovárico prematuro.",
+      "Adenoma hipofisario primario.",
+      "Amenorrea hipotalámica.",
+      "Sospecha de síndrome de Kallman o síndrome de Prader-Willi requiriéndose diagnóstico diferencial según otros datos clínicos de la paciente."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-052",
+    "number": 52,
+    "examId": "mir2025",
+    "specialty": "Ginecología y Obstetricia",
+    "statement": "Una mujer de 40 años se detectó un nódulo mamario y es remitida tras el estudio de imagen (mamografía y ecografía), calificando el informe hallazgo como nódulo BIRADS 4A. ¿Cuál sería la actitud más correcta?:",
+    "options": [
+      "Realizar la exéresis del nódulo mamario.",
+      "Realizar pruebas de imagen cada 6 meses para comprobar si existe crecimiento y en ese caso ampliar el estudio con biopsia.",
+      "Realizar biopsia percutánea con aguja gruesa del nódulo para estudio histopatológico, estimando una probabilidad de malignidad menor o igual al 10%.",
+      "No es aplicable en este caso la catalogación porque el sistema Birads se definió para clasificar las microcalcificaciones, no los nódulos."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-053",
+    "number": 53,
+    "examId": "mir2025",
+    "specialty": "Ginecología y Obstetricia",
+    "statement": "¿Cuál de las siguientes determinaciones analíticas es más útil para valorar la reserva folicular ovárica de una mujer que consulta por esterilidad?:",
+    "options": [
+      "Niveles séricos de estradiol en mitad de ciclo.",
+      "Niveles séricos de hormona folículo estimulante (FSH) en mitad de ciclo.",
+      "Niveles séricos de hormona antimulleriana (AMH) en cualquier momento del ciclo.",
+      "Determinación conjunta de FSH y estradiol en día 8 del ciclo."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-054",
+    "number": 54,
+    "examId": "mir2025",
+    "specialty": "Ginecología y Obstetricia",
+    "statement": "Una gestante de 32 semanas acude a urgencias por notarse mojada y se confirma rotura prematura de membranas. Está afebril, la analítica de sangre es normal y el registro cardiotocográfico muestra línea de base de la frecuencia cardiaca fetal de 130 latidos por minuto y ausencia de contracciones. ¿Qué actitud le parece la más correcta?:",
+    "options": [
+      "Iniciar tratamiento tocolítico profiláctico y mantener actitud expectante con vigilancia maternofetal.",
+      "Iniciar tratamiento tocolítico y la pauta de maduración pulmonar con corticoides y mantener actitud expectante con vigilancia maternofetal.",
+      "Iniciar tratamiento antibiótico, la pauta de maduración pulmonar con corticoides y mantener actitud expectante con vigilancia maternofetal.",
+      "Iniciar tratamiento antibiótico y pauta de maduración pulmonar con corticoides y emprender medidas para finalizar la gestación en 48-72 horas."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-055",
+    "number": 55,
+    "examId": "mir2025",
+    "specialty": "Ginecología y Obstetricia",
+    "statement": "Respecto al cribado del primer trimestre en la gestante para estimar el riesgo de preeclampsia, señale la afirmación correcta:",
+    "options": [
+      "La inclusión del Doppler de las arterias uterinas (valor del índice de pulsatilidad) en el cribado aumenta la tasa de detección.",
+      "El valor de sflt-1 incluido en el cribado indica mayor riesgo cuando está en concentraciones bajas.",
+      "La detección de gestantes con alto riesgo permite prevenir la preeclampsia con ácido acetilsalicílico 150 mg/noche, comenzando el tratamiento a partir de la semana 16.",
+      "Únicamente debe realizarse en centros que dispongan de un ecógrafo de alta resolución."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-056",
+    "number": 56,
+    "examId": "mir2025",
+    "specialty": "Ginecología y Obstetricia",
+    "statement": "Una mujer de 41 años que tuvo “inesperadamente” la menopausia a los 39 años, sin antecedentes de interés (dos partos normales), y asintomática del climaterio, le consulta si debe tomar tratamiento hormonal de la menopausia (THM). Tiene preocupación sobre ello porque su tía materna tuvo cáncer de mama a los 50 años ¿cuál de las siguientes le parece la mejor recomendación si la exploración ginecológica y mamaria están dentro de la normalidad?:",
+    "options": [
+      "En su caso está indicado el THM al menos hasta los 50 años si no aparecen contraindicaciones, porque el beneficio supera el riesgo.",
+      "Puede obtener beneficio de la THM, pero la duración del tratamiento no debe superar los cinco años por el riesgo de cáncer de mama que tendría prolongarlo más.",
+      "La THM no tiene indicación en su caso al no presentar sintomatología vasomotora (sofocos) ni otros síntomas.",
+      "La THM no tiene indicación en su caso por no presentar sofocos, pero puede utilizar estrógenos locales para prevenir la sequedad vaginal."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-057",
+    "number": 57,
+    "examId": "mir2025",
+    "specialty": "Ginecología y Obstetricia",
+    "statement": "¿En cuál de los siguientes casos está claramente indicado iniciar el tratamiento tocolítico en una gestante de 30 semanas que acude a urgencias por dinámica uterina y se comprueban contracciones en el registro cardiotocográfico?:",
+    "options": [
+      "Si la medida de la longitud cervical mediante ecografía vaginal es de 20 mm..",
+      "Si el test de fibronectina es negativo.",
+      "Debe administrarse en todos los casos, dada la edad gestacional.",
+      "Debe administrarse en todos los casos si la mujer es primigesta, dada la edad gestacional."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-058",
+    "number": 58,
+    "examId": "mir2025",
+    "specialty": "Psiquiatría",
+    "statement": "En relación con el tratamiento con carbonato de litio de los pacientes con Trastorno Bipolar, señale la afirmación correcta:",
+    "options": [
+      "El litio es altamente eficaz para reducir las tasas de suicidio.",
+      "El riesgo de malformaciones congénitas en recién nacidos es mayor cuando las madres reciben tratamiento con litio que cuando lo hacen con ácido valproico.",
+      "El tratamiento con litio durante 10-20 años puede provocar una hepatopatía crónica.",
+      "El litio es más eficaz que los fármacos anticonvulsivos para el tratamiento de los episodios mixtos."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-059",
+    "number": 59,
+    "examId": "mir2025",
+    "specialty": "Psiquiatría",
+    "statement": "Un estudiante de 22 años, sin antecedentes psiquiátricos, lleva dos meses sin asistir a clase y sin relacionarse con sus numerosos amigos. Su familia comenta que, durante los últimos siete meses, está distinto, más retraído, serio y callado. Han empeorado sus resultados académicos y ha abandonado sus aficiones. Cree que hay una conspiración, en la que involucra al entrevistador. Evita el contacto visual y se muestra suspicaz. Niega oír voces, pero con frecuencia se gira hacia un lado teniendo una actitud de escucha. ¿Cuál de los siguientes sería el diagnóstico más probable, una vez descartada patología orgánica y consumo de sustancias?:",
+    "options": [
+      "Trastorno de depresión mayor con características psicóticas congruentes con el estado de ánimo.",
+      "Esquizofrenia.",
+      "Trastorno esquizotípico de la personalidad.",
+      "Trastorno Bipolar I, episodio actual maníaco, con características psicóticas congruentes con el estado de ánimo."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-060",
+    "number": 60,
+    "examId": "mir2025",
+    "specialty": "Psiquiatría",
+    "statement": "En relación con las adicciones, ¿cuál es la afirmación INCORRECTA?:",
+    "options": [
+      "Hay una asociación sólida y dependiente de la dosis entre consumo de cannabis de alta potencia y el desarrollo posterior de esquizofrenia.",
+      "Los pacientes con trastorno por consumo de alcohol presentan pocos trastornos psiquiátricos comórbidos.",
+      "El tratamiento farmacológico principal de la abstinencia alcohólica son las benzodiacepinas.",
+      "El consumo de cocaína aumenta el riesgo de eventos adversos cardiovasculares."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-061",
+    "number": 61,
+    "examId": "mir2025",
+    "specialty": "Psiquiatría",
+    "statement": "Paciente de 32 años, sin antecedentes psiquiátricos, que ha tenido un hijo hace 50 días. A los 40 días del parto empezó a mostrarse irritable, decaída, inquieta y con insomnio. Comenta que ha pecado y debe morir. Refiere escuchar espíritus que le incitan a desaparecer y cree que la familia quiere envenenarla. Una vez descartada organicidad, se le ingresa y se pauta tratamiento antipsicótico, valorando la realización de Terapia Electroconvulsiva (TEC). De todos los datos recogidos en este caso clínico, cuál de estos NO es típico de la psicosis que padece esta paciente:",
+    "options": [
+      "Este tipo de psicosis es una urgencia psiquiátrica que requiere hospitalización.",
+      "Antes de realizar el diagnóstico psiquiátrico, es necesario descartar organicidad.",
+      "La aparición típica de los síntomas se produce a partir de la cuarta semana después del parto.",
+      "Entre los tratamientos indicados se encuentran los antipsicóticos y el TEC."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-062",
+    "number": 62,
+    "examId": "mir2025",
+    "specialty": "Psiquiatría",
+    "statement": "En lo que respecta a los pacientes con Trastorno de la personalidad límite, es correcta la siguiente afirmación:",
+    "options": [
+      "Presentan un patrón de relaciones interpersonales estables.",
+      "Pueden experimentar cambios de humor repetidos y marcados a lo largo del día.",
+      "Es raro que se autolesionen.",
+      "En su tratamiento tiene más peso la terapia farmacológica que la psicoterapia."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-063",
+    "number": 63,
+    "examId": "mir2025",
+    "specialty": "Psiquiatría",
+    "statement": "Una chica de 16 años acude a urgencias por pérdida de peso. Comenta que se ve gorda. Tiene amenorrea desde hace tres meses, y niega tener relaciones sexuales. Ha perdido 16 kg en los últimos ocho meses. Ahora hace ejercicio durante todo el día. En el examen físico, se constata que la paciente tiene un índice de masa corporal de 12,31 y está caquéctica. Una vez descartadas complicaciones médicas agudas, ¿cuál sería la actitud terapéutica aconsejable para esta paciente?:",
+    "options": [
+      "Organizar un plan terapéutico ambulatorio, en el que se incluya la participación de psiquiatra y psicólogo.",
+      "Ingresar a la paciente en una Unidad de Psiquiatría para mejorar su estado nutricional en primer lugar y posteriormente proceder al desarrollo de una psicoterapia específica.",
+      "Enviar cuanto antes a la paciente a consulta de un Nutricionista para realizar un plan dietético adecuado.",
+      "Derivar a un Hospital de Día de Trastornos de la Conducta Alimentaria."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-064",
+    "number": 64,
+    "examId": "mir2025",
+    "specialty": "Medicina Preventiva y Salud Pública",
+    "statement": "En un ensayo clínico controlado, se ha comparado la eficacia de un nuevo colirio para ralentizar el desarrollo de catarata senil en hombres y mujeres sanos de 60 años. Tras 5 años de tratamiento, en el grupo control (placebo) la incidencia de catarata fue del 10% en mujeres y del 8% en hombres. En el grupo de intervención con el nuevo colirio, la incidencia de cataratas fue la mitad de la observada en el grupo control (placebo) tanto en mujeres como en hombres (5% y 4%, respectivamente). Señale la respuesta CORRECTA, en relación con la eficacia de este nuevo colirio según el género:",
+    "options": [
+      "Es más eficaz en mujeres, porque el valor de NNT estimado en hombres es superior al de las mujeres.",
+      "Es más eficaz en hombres, porque el valor de NNT estimado en mujeres es inferior al de hombres.",
+      "Es igual de eficaz en mujeres y hombres, porque en ambos casos la incidencia es la mitad en el grupo de intervención con el colirio.",
+      "Es más eficaz en hombres, porque el valor de NNT estimado en mujeres es superior al de mujeres."
+    ],
+    "correctIndex": null,
+    "annulled": true,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-065",
+    "number": 65,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Un hombre acude a la consulta para la revisión del tratamiento farmacológico de un síndrome coronario crónico. Si no existen comorbilidades, ni otro tipo de factores asociados, ¿qué fármaco de mantenimiento debería tomar este paciente para la prevención de complicaciones graves y mejora de la supervivencia?:",
+    "options": [
+      "Nifedipino.",
+      "Acenocumarol.",
+      "Ácido acetilsalicílico.",
+      "Enalapril."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-066",
+    "number": 66,
+    "examId": "mir2025",
+    "specialty": "Farmacología",
+    "statement": "Según normativa española vigente, ¿en qué situación debe estar un medicamento sometido a “prescripción médica restringida”?:",
+    "options": [
+      "Cuando no es necesaria la intervención de ningún facultativo para realizar la receta del medicamento.",
+      "Cuando el preparado contiene alguna sustancia homeopática y sigue un procedimiento de fabricación descrito en la farmacopea oficial.",
+      "Cuando se prescribe para alguna enfermedad cuyo diagnóstico se debe realizar en un centro hospitalario.",
+      "Cuando puede producir algún riesgo considerable de abuso, dependencia o ser desviado para usos ilegales."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-067",
+    "number": 67,
+    "examId": "mir2025",
+    "specialty": "Fisiología",
+    "statement": "¿Cuál de las siguientes afirmaciones es correcta respecto al electrocardiograma (ECG) normal en la fisiología cardíaca?:",
+    "options": [
+      "El complejo QRS representa la repolarización de los ventrículos.",
+      "La onda T indica la despolarización completa del músculo ventricular.",
+      "La onda P corresponde a la despolarización de las aurículas antes de la contracción auricular.",
+      "El electrodo ubicado cerca de la base del corazón registra una positividad durante la despolarización ventricular."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-068",
+    "number": 68,
+    "examId": "mir2025",
+    "specialty": "Fisiología",
+    "statement": "¿Cuál de las siguientes afirmaciones sobre la regulación intracelular del ion calcio es correcta?:",
+    "options": [
+      "La concentración citosólica de calcio se mantiene baja gracias a bombas ATPasas que transportan calcio hacia el retículo endoplásmico.",
+      "El trifosfato de inositol (IP3) bloquea la liberación de calcio desde el retículo endoplásmico.",
+      "La entrada de calcio en la célula ocurre principalmente por difusión pasiva a través de la membrana.",
+      "El calcio intracelular no participa como segundo mensajero en la señalización celular."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-069",
+    "number": 69,
+    "examId": "mir2025",
+    "specialty": "Fisiología",
+    "statement": "Una sustancia nefrotóxica se elimina por filtración glomerular y se reabsorbe pasivamente en el túbulo renal. Considerando que esta sustancia posee una pKa = 5 en el equilibrio ácido-base, ¿cuál de estas actuaciones consideras que puede reducir su nefrotoxicidad?:",
+    "options": [
+      "Acidificaremos la orina con cloruro amónico, para aumentar la fracción ionizada de la sustancia y potenciar así la excreción renal de la sustancia.",
+      "Alcalinizaremos la orina con bicarbonato sódico, para aumentar la fracción ionizada de la sustancia y acelerar así su diuresis.",
+      "Acidificaremos la orina con cloruro amónico, para reducir la fracción ionizada de la sustancia y acelerar así la excreción renal de la sustancia.",
+      "No actuaremos de forma específica con el pH, porque la reabsorción y excreción renal de sustancias es independiente del pH urinario."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-070",
+    "number": 70,
+    "examId": "mir2025",
+    "specialty": "Fisiología",
+    "statement": "En relación con el potencial de placa terminal en la unión neuromuscular, ¿cuál de las siguientes afirmaciones es correcta?:",
+    "options": [
+      "Su amplitud depende de la suma temporal de los potenciales de acción en la fibra muscular.",
+      "Se origina principalmente por la apertura de receptores nicotínicos para acetilcolina que permiten el flujo de Na⁺ y, en menor cantidad, de K⁺.",
+      "Se genera cuando la acetilcolina activa conductos de Ca²⁺ dependientes de voltaje.",
+      "Se propaga a lo largo de toda la fibra muscular como un potencial de acción independiente."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-071",
+    "number": 71,
+    "examId": "mir2025",
+    "specialty": "Cuidados Paliativos",
+    "statement": "Un adulto toma comprimidos orales de morfina (60 mg/día) desde hace 9 meses por un dolor oncológico intenso. Como el dolor no está bien controlado, se decide sustituir la morfina por una dosis elevada de otro opioide que tiene una mayor potencia analgésica y una mayor afinidad por el receptor opioide que la propia morfina, pero una actividad intrínseca mucho más pequeña. Al día siguiente comienza con la nueva medicación. ¿Cuál será el efecto esperado de este cambio en el paciente?:",
+    "options": [
+      "Un incremento del efecto analgésico y una mejora del control del dolor.",
+      "El desencadenamiento de un síndrome de abstinencia opioide.",
+      "La aparición de una marcada dificultad respiratoria.",
+      "El paciente no experimentará ningún cambio apreciable."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-072",
+    "number": 72,
+    "examId": "mir2025",
+    "specialty": "Medicina Legal y Bioética",
+    "statement": "En relación con la emisión del parte de lesiones, señale la afirmación correcta:",
+    "options": [
+      "El parte de lesiones solo debe emitirse si la víctima solicita expresamente que se comunique a la autoridad.",
+      "Cuando el profesional sanitario atiende lesiones posiblemente derivadas de agresión, debe emitir parte y remitirlo al juzgado, incluso sin consentimiento de la víctima.",
+      "El parte de lesiones es obligatorio si existe ingreso hospitalario.",
+      "Si el paciente niega la agresión y solicita confidencialidad, el médico debe mantener el secreto profesional y no emitir el parte."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-073",
+    "number": 73,
+    "examId": "mir2025",
+    "specialty": "Medicina Legal y Bioética",
+    "statement": "Respecto a la Ley Orgánica 3/2021, de regulación de la eutanasia, señale la afirmación correcta:",
+    "options": [
+      "Es necesario el consentimiento por representación para los menores de 18 años.",
+      "La prestación de ayuda para morir puede llevarse a cabo si está recogida por escrito en el Documento de Voluntades Anticipadas o instrucciones previas.",
+      "El médico responsable es quien decide el lugar en que debe producirse el fallecimiento.",
+      "La ley no contempla el ejercicio de la objeción de conciencia."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-074",
+    "number": 74,
+    "examId": "mir2025",
+    "specialty": "Medicina Legal y Bioética",
+    "statement": "La deliberación como proceso en situaciones clínicas complejas se define como:",
+    "options": [
+      "Un método de toma de decisiones prudentes en condiciones de incertidumbre.",
+      "Un procedimiento de negociación para alcanzar un acuerdo entre partes.",
+      "La autorreflexión individual previa a la acción clínica.",
+      "La intervención de un mediador externo cuando existe conflicto de opiniones."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-075",
+    "number": 75,
+    "examId": "mir2025",
+    "specialty": "Cuidados Paliativos",
+    "statement": "En relación con la diferencia entre eutanasia y sedación paliativa, señale la afirmación correcta:",
+    "options": [
+      "La sedación paliativa tiene como finalidad provocar deliberadamente la muerte para evitar el sufrimiento.",
+      "La eutanasia se realiza únicamente cuando el paciente está en situación de agonía inminente.",
+      "La sedación paliativa busca aliviar síntomas refractarios, aunque pueda acortar secundariamente la supervivencia.",
+      "En la eutanasia el alivio del sufrimiento es un efecto secundario no buscado."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-076",
+    "number": 76,
+    "examId": "mir2025",
+    "specialty": "Cirugía Plástica",
+    "statement": "¿Cuál de las siguientes afirmaciones sobre las quemaduras de espesor parcial profundo es correcta?:",
+    "options": [
+      "Se caracterizan por dolor intenso y eritema marcado, sin formación de ampollas.",
+      "Afectan solo la epidermis y suelen sanar sin dejar cicatriz.",
+      "Presentan destrucción de la epidermis y dermis reticular, con pérdida de sensibilidad y mayor riesgo de infección.",
+      "No requieren injerto cutáneo ya que cicatrizan espontáneamente en menos de una semana."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-077",
+    "number": 77,
+    "examId": "mir2025",
+    "specialty": "Cirugía Plástica",
+    "statement": "Respecto a la técnica de expansión tisular, la razón más frecuente de fallos es:",
+    "options": [
+      "Bolsa pequeña respecto al expansor.",
+      "Llenado del expansor de forma muy lenta.",
+      "Mal cálculo de las medidas necesarias.",
+      "Llenado del expansor de forma rápida."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-078",
+    "number": 78,
+    "examId": "mir2025",
+    "specialty": "Neurología y Neurocirugía",
+    "statement": "Los tumores cerebrales metastásicos o secundarios son aquellas neoplasias que se diseminan e implantan en el cerebro, pero cuyo origen es un órgano de localización diferente a éste. Indique la respuesta CORRECTA acerca de estos tumores:",
+    "options": [
+      "Las neoplasias secundarias son más infrecuentes que las neoplasias cerebrales primarias, representan sólo el 10% de los pacientes con diagnóstico de tumor cerebral.",
+      "Son tumores que típicamente se desarrollan durante la primera y segunda década de la vida.",
+      "Las neoplasias que con más frecuencia dan implantes cerebrales son aquellas originadas en el páncreas y en el hígado.",
+      "Cuando existen metástasis cerebrales múltiples, el tratamiento quirúrgico para lograr la extirpación completa de todas las lesiones no suele ser una opción posible."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-079",
+    "number": 79,
+    "examId": "mir2025",
+    "specialty": "Neurología y Neurocirugía",
+    "statement": "Con respecto al meningioma cerebral, indique la afirmación CORRECTA:",
+    "options": [
+      "Son tumores bien definidos y de localización extraaxial, por lo que generalmente son extirpables quirúrgicamente de forma completa y esto puede ser curativo.",
+      "Los pacientes diagnosticados de meningioma deben realizarse un estudio genético a la hora de tener descendencia ante la herencia autosómica dominante de estos tumores.",
+      "Como son tumores de comportamiento benigno, no es necesario realizar un estudio anatomo-patológico completo puesto que el grado tumoral no influye en el tratamiento a realizar ni en el pronóstico posterior.",
+      "Las recidivas en estos tumores no dependen del grado tumoral y no son frecuentes."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-080",
+    "number": 80,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "Paciente remitido a la consulta de cirugía torácica con el diagnóstico de un segundo episodio de neumotórax resuelto, tratados ambos con drenaje torácico. ¿Cuál sería la mejor recomendación?:",
+    "options": [
+      "Reposo relativo y abstención de tabaco.",
+      "Colocación de un nuevo drenaje torácico.",
+      "Esperar a un tercer episodio para plantear cirugía.",
+      "Programar una intervención quirúrgica por videocirugía."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-081",
+    "number": 81,
+    "examId": "mir2025",
+    "specialty": "Otorrinolaringología",
+    "statement": "El carcinoma adenoide quístico:",
+    "options": [
+      "Es el tumor maligno más frecuente de las glándulas salivares.",
+      "Nunca afecta a las glándulas salivares menores a nivel del paladar.",
+      "Puede asociarse con parálisis facial debido a su neurotropismo.",
+      "Se debe tratar con radioterapia como primera opción terapéutica."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-082",
+    "number": 82,
+    "examId": "mir2025",
+    "specialty": "Angiología y Cirugía Vascular",
+    "statement": "Respecto a la embolia y la trombosis en las extremidades inferiores, indica la correcta:",
+    "options": [
+      "La trombosis arterial se da frecuentemente en pacientes con arritmia cardiaca.",
+      "Los pacientes con una embolia arterial refieren de forma habitual clínica de claudicación previa.",
+      "La embolia se trata habitualmente mediante anticoagulación.",
+      "En la angiografía de un paciente con trombosis arterial se objetiva mayor desarrollo de circulación colateral."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-083",
+    "number": 83,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "En un paciente con estenosis de válvula aórtica, ¿Cuál te parece el tratamiento más adecuado?:",
+    "options": [
+      "Recambio valvular en pacientes asintomáticos sin disfunción ventricular.",
+      "Recambio valvular en pacientes sintomáticos.",
+      "Reparación valvular en pacientes sintomáticos.",
+      "Valvuloplastia en estenosis aórtica grave y pacientes con bajo riesgo de reemplazo valvular."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-084",
+    "number": 84,
+    "examId": "mir2025",
+    "specialty": "Urología",
+    "statement": "El síndrome de Stauffer es un síndrome paraneoplásico característico de (elija la correcta):",
+    "options": [
+      "Cáncer de riñón.",
+      "Cáncer de próstata.",
+      "Cáncer de testículo.",
+      "Cáncer vesical."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-085",
+    "number": 85,
+    "examId": "mir2025",
+    "specialty": "Urología",
+    "statement": "Varón de 57 años, sin comorbilidades asociadas. Presenta PSA 15 ng/ml y tacto rectal pétreo. La biopsia prostática revela adenocarcinoma de próstata Gleason 9 y el estudio de extensión muestra afectación ósea con más de 8 metástasis a nivel de esqueleto axial y metástasis hepáticas. Indique el tratamiento de elección:",
+    "options": [
+      "Prostatectomía radical con linfadenectomía extendida y resección de las metástasis.",
+      "Radioterapia pélvica y radioterapia estereoatáxica de las metástasis.",
+      "Braquiterapia de alta tasa prostática.",
+      "Antiandrógenos inicialmente junto a análogos de LHRH y enzalutamida (nuevos antiandrógenos) y docetaxel."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-086",
+    "number": 86,
+    "examId": "mir2025",
+    "specialty": "Urología",
+    "statement": "Indique la afirmación correcta sobre la cistectomía radical:",
+    "options": [
+      "Es una cirugía que incluye la exéresis de vejiga, próstata (en el varón) y ganglios ilioobturatrices.",
+      "La morbimortalidad del procedimiento es muy baja comparada con procedimientos endoscópicos.",
+      "La derivación ureteral a piel o a intestino se realiza a los 5 días una vez el paciente se recupera del tiempo de exéresis.",
+      "Es el tratamiento de elección del cáncer de vejiga no musculo invasivo de alto grado."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-087",
+    "number": 87,
+    "examId": "mir2025",
+    "specialty": "Urología",
+    "statement": "Paciente mujer de 61 años con Diabetes Mellitus II, colesterol elevado y con diagnóstico de vejiga hiperactiva desde 2021 por EUD (Estudio Urodinámico) sin más datos de interés. En tratamiento con Anticolinérgicos a dosis máximas desde 2022. En el último control en 2023 se le añade doble terapia anticolinérgicos + Agonista Beta 3. La paciente acude a la consulta y refiere no haber tenido mejoría en la sintomatología, ni con las medidas de uroterapia ni con los anticolinérgicos ni con la doble terapia de la última consulta. ¿Cuál es nuestro plan ahora?:",
+    "options": [
+      "Retirar los anticolinérgicos y añadir Agonistas Beta 3 a dosis máximas.",
+      "Inyección de toxina botulínica intradetrusor.",
+      "Cateterismos intermitentes.",
+      "Enterocistoplastia de aumento."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-088",
+    "number": 88,
+    "examId": "mir2025",
+    "specialty": "Urología",
+    "statement": "Mujer fumadora de 68 años, trabajadora de industria de caucho. Presenta polaquiuria, disuria y hematuria. Presenta urocultivo y ecografía sin alteraciones. Indique la afirmación correcta:",
+    "options": [
+      "Dada la ausencia de patología tumoral en la ecografía es probable que presente vejiga hiperactiva por lo que se solicitará estudio urodinámico.",
+      "Ha de realizarse cistoscopia y citologías ante riesgo de carcinoma in situ vesical.",
+      "Lo más probable es que presente una pequeña litiasis vesical que expulsará espontáneamente dada la longitud y anchura de la uretra femenina.",
+      "La disuria descarta que la paciente presente patología tumoral."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-089",
+    "number": 89,
+    "examId": "mir2025",
+    "specialty": "Traumatología y Cirugía Ortopédica",
+    "statement": "Joven de 33 años corredor habitual. Refiere dolor en cara externa de rodilla sobre todo en actividad deportiva, pero también al subir y bajar escaleras. El dolor se acentúa a la palpación del Epicóndilo Externo. ¿Cuál es la sospecha diagnóstica?:",
+    "options": [
+      "Síndrome del Osgood-Schlatter.",
+      "Síndrome de la Cintilla Ilio-Tibial.",
+      "Enfermedad de Sever.",
+      "Trocanteritis."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-090",
+    "number": 90,
+    "examId": "mir2025",
+    "specialty": "Traumatología y Cirugía Ortopédica",
+    "statement": "¿Cuál de las siguientes es una red-flag durante la anamnesis y exploración física de una lumbalgia?:",
+    "options": [
+      "Dolor lumbar de patrón mecánico.",
+      "Dolor a la palpación de espinosas.",
+      "Antecedentes personales de proceso neoplásico.",
+      "Paciente de 45 años."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-091",
+    "number": 91,
+    "examId": "mir2025",
+    "specialty": "Traumatología y Cirugía Ortopédica",
+    "statement": "¿Cuál de las siguientes lesiones traumáticas precisa, para evitar complicaciones locales, un tratamiento más precoz?:",
+    "options": [
+      "Luxación traumática posterior de la cadera.",
+      "Fractura desplazada del cuello femoral del anciano.",
+      "Fractura trocantérica del anciano.",
+      "Fractura de cotilo."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-092",
+    "number": 92,
+    "examId": "mir2025",
+    "specialty": "Traumatología y Cirugía Ortopédica",
+    "statement": "La fractura de Monteggia consiste en:",
+    "options": [
+      "Fractura de cabeza radial con rotura de la membrana intraósea.",
+      "Fractura de cabeza radial con luxación de articulación radio-cubital distal.",
+      "Fractura de cubito proximal con luxación de la cabeza de radio.",
+      "Fractura de radio distal con luxación de articulación radio-cubital distal."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-093",
+    "number": 93,
+    "examId": "mir2025",
+    "specialty": "Cirugía General y del Aparato Digestivo",
+    "statement": "En relación a las indicaciones de cirugía bariátrica, señale la correcta.",
+    "options": [
+      "El IMC es la mejor medida de correlación entre exceso de peso y gravedad de la enfermedad.",
+      "El IMC es una medida útil, pero que no se utiliza para la indicación de cirugía bariátrica.",
+      "El punto de corte del IMC es de 55, independientemente de las enfermedades asociadas.",
+      "Paciente con IMC por debajo de 35 y enfermedades metabólicas poco controladas se pueden beneficiar de la cirugía bariátrica."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-094",
+    "number": 94,
+    "examId": "mir2025",
+    "specialty": "Cirugía General y del Aparato Digestivo",
+    "statement": "La cirugía de elección en un paciente con un brote severo de colitis ulcerosa que desarrolla un megacolon tóxico es:",
+    "options": [
+      "Proctocolectomía total + reservorio ileoanal+ ileostomía lateral.",
+      "Proctocolectomía total + ileostomía terminal.",
+      "Colectomía total + ileostomía terminal.",
+      "Colectomía total + anastomosis ileorrectal."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-095",
+    "number": 95,
+    "examId": "mir2025",
+    "specialty": "Cirugía General y del Aparato Digestivo",
+    "statement": "La complicación más frecuente y grave de la duodenopancreatectomía cefálica es:",
+    "options": [
+      "Hemorragia.",
+      "Absceso intrabdominal.",
+      "Fístula pancreática.",
+      "Infección herida."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-096",
+    "number": 96,
+    "examId": "mir2025",
+    "specialty": "Cirugía General y del Aparato Digestivo",
+    "statement": "La estrategia de control de daños pretende evitar:",
+    "options": [
+      "Hipertermia, acidosis y coagulopatía.",
+      "Acidosis, hipotermia y coagulopatía.",
+      "Hipotermia, alcalosis y coagulopatía.",
+      "Hipertermia, alcalosis y coagulopatía."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-097",
+    "number": 97,
+    "examId": "mir2025",
+    "specialty": "Cirugía General y del Aparato Digestivo",
+    "statement": "Indica la afirmación FALSA en relación con la neoplasia mucinosa papilar intraductal (NPIM) del páncreas:",
+    "options": [
+      "Se localiza en cabeza y cuerpo, pero el 10% es multifocal (skiplesions).",
+      "Se realiza una pancreatectomia total, ya que maligniza y es multifocal.",
+      "Existen tres tipos (I: ducto principal; II: rama secundaria III: mixto).",
+      "En el tipo I durante la CPRE (Colangiopancreatografía retrógrada endoscópica) se produce salida de moco de la papila."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-098",
+    "number": 98,
+    "examId": "mir2025",
+    "specialty": "Cirugía General y del Aparato Digestivo",
+    "statement": "Varón de 83 años que acude a Urgencias Generales por cuadro de dolor a nivel inguinal izquierdo de 2 horas de evolución, con tumoración blanda y móvil asociada a la exploración. Se modifica con las maniobras de Valsalva y desaparece con el decúbito. Elija la respuesta CORRECTA:",
+    "options": [
+      "El paciente presenta una hernia inguinal reductible a la exploración.",
+      "El paciente presenta una hernia inguinal incoercible a la exploración.",
+      "El paciente presenta una hernia inguinal con pérdida de derecho a domicilio en la exploración.",
+      "El paciente presenta una hernia inguinal estrangulada a la exploración."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-099",
+    "number": 99,
+    "examId": "mir2025",
+    "specialty": "Oncología Médica",
+    "statement": "Entre los principios oncológicos en el tratamiento del cáncer de colon se encuentran todas las siguientes afirmaciones, EXCEPTO:",
+    "options": [
+      "Hay que realizar una resección intestinal con márgenes quirúrgicos amplios.",
+      "No hace falta hacer linfadenectomía.",
+      "Realizar resecciones en bloque si existe sospecha de infiltración de órganos vecinos.",
+      "En ocasiones se da tratamiento neoadyuvante con quimioterapia previa a la cirugía."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-100",
+    "number": 100,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "¿Cuál de las siguientes afirmaciones es correcta en relación al divertículo faringoesofágico de Zenker?:",
+    "options": [
+      "Se trata de un divertículo por tracción.",
+      "Es más frecuente en pacientes jóvenes.",
+      "Entre sus síntomas se encuentran: disfagia, regurgitación y halitosis.",
+      "La localización especifica en la parte posterior de la faringe se denomina triángulo de Farabeuf."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-101",
+    "number": 101,
+    "examId": "mir2025",
+    "specialty": "Otorrinolaringología",
+    "statement": "En un paciente con rinorrea acuosa unilateral y sospecha de fístula de líquido cefalorraquídeo, ¿cuál de las siguientes es una proteína que se considera marcador de líquido cefalorraquídeo?:",
+    "options": [
+      "Albúmina.",
+      "Prealbúmina.",
+      "Beta 2 transferrina.",
+      "Mielina."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-102",
+    "number": 102,
+    "examId": "mir2025",
+    "specialty": "Otorrinolaringología",
+    "statement": "Entre los siguientes tumores benignos de senos paranasales señale cuál de ellos se asocia con malignización:",
+    "options": [
+      "Papiloma invertido.",
+      "Mucocele.",
+      "Schwannoma.",
+      "Osteoma."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-103",
+    "number": 103,
+    "examId": "mir2025",
+    "specialty": "Otorrinolaringología",
+    "statement": "¿Cuál de las siguientes afirmaciones sobre la otitis media secretoria es CIERTA?:",
+    "options": [
+      "Es más frecuente en verano.",
+      "El tratamiento de elección es quirúrgico.",
+      "En la mayoría de los casos, la evolución natural es hacia la curación espontánea.",
+      "Los antihistamínicos son útiles para su resolución."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-104",
+    "number": 104,
+    "examId": "mir2025",
+    "specialty": "Genética",
+    "statement": "En Neonatología ingresa desde paritorio un neonato grande para la edad gestacional con hemangioma facial, macroglosia y onfalocele, que desarrolla posteriormente crisis de hipoglucemia. ¿Cuál de las siguientes afirmaciones es FALSA?:",
+    "options": [
+      "Se plantea el diagnóstico de Síndrome de Beckwith-Wiedemann.",
+      "La gestación por técnicas de reproducción asistida y/o detección ecográfica prenatal de polihidramnios puede estar entre sus antecedentes.",
+      "La causa más frecuente de este síndrome es la teratogénica.",
+      "No suele conllevar discapacidad intelectual, salvo complicaciones específicas asociadas como hipoxia o hipoglucemias no tratadas, entre otras."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-105",
+    "number": 105,
+    "examId": "mir2025",
+    "specialty": "Genética",
+    "statement": "Una mujer de 37 años acude a consulta con su hijo de 14 años con discapacidad intelectual moderada-grave, sin otros hallazgos fenotípicos y conductuales significativos. Previamente le habían realizado al niño un Array-CGH y un estudio molecular de X Frágil, en los que no se detectó ninguna alteración. La señora desea planificar otra gestación y solicita asesoramiento genético previo. ¿Cuál de las siguientes afirmaciones es correcta?:",
+    "options": [
+      "Dado que en los estudios genéticos de su hijo no se detectó ninguna alteración, no se sospecha causa genética subyacente y el riesgo de recurrencia de la discapacidad intelectual en su descendencia sería mínimo.",
+      "Con la información disponible se podría indicar un diagnóstico genético preimplantacional y/o prenatal específico para sus futuros embarazos.",
+      "Sería conveniente evaluar de nuevo al hijo y considerar previamente la realización de un estudio de secuenciación masiva, tipo exoma clínico.",
+      "Se le aconsejaría, dado el alto riesgo de recurrencia, que no planifique más embarazos."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-106",
+    "number": 106,
+    "examId": "mir2025",
+    "specialty": "Oftalmología",
+    "statement": "En un paciente diagnosticado de glaucoma de tensión normal, ¿Cuál de las siguientes características clínicas descartaría este diagnóstico?:",
+    "options": [
+      "Presión intraocular < 21 mmHg.",
+      "Angulo de drenaje cerrado en la gonioscopia.",
+      "Excavación papilar glaucomatosa.",
+      "Hipotensión sistémica nocturna."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-107",
+    "number": 107,
+    "examId": "mir2025",
+    "specialty": "Oftalmología",
+    "statement": "¿Qué hallazgo en el fondo del ojo sugiere más frecuentemente la existencia de una metástasis coroidea?:",
+    "options": [
+      "Masa Pigmentada.",
+      "Drusas blandas.",
+      "Lesión amarillenta subretiniana.",
+      "Neovasos."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-108",
+    "number": 108,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "Nos avisan del mostrador por un paciente de nuestro cupo que refiere dificultad para respirar. El paciente pasa rápidamente a la sala de tratamientos donde enfermería realiza una primera evaluación con toma de constantes mientras nosotros vamos llegando. A la exploración se objetivan sibilantes, tos, habla conservada, frecuencia Cardíaca 96 lpm, presión Arterial 123/78, sin uso de musculatura accesoria, frecuencia Respiratoria 18 resp/min y saturación O2 96%. ¿Cuál sería la actuación más correcta?:",
+    "options": [
+      "Estamos ante una crisis de asma leve, agonistas Beta -2 de acción corta con cámara entre 2 y 4 inhalaciones cada 20 minutos en la primera hora hasta mejoría. Si mejoría alta con prednisonavia oral 5-7 días y glucocorticoide inhalado más LABA, un plan de acción por escrito y revisión en consulta.",
+      "Estamos ante una crisis de asma moderada, agonistas Beta-2 de acción corta con ipatropio nebulizado y oxígeno en gafa nasal. Tras mejoría alta con glucocorticoide inhalado más LABA, prednisonavia oral 5-7 días, un plan de acción por escrito y revisión en consulta.",
+      "Estamos ante una crisis de asma moderada, agonistas Beta-2 de acción corta con ipatropio nebulizado y oxígeno en gafa nasal. Tras mejoría alta con amoxicilina 500 cada 12 horas pauta corta de 5 dias, glucocorticoide inhalado más LABA, prednisonavia oral 5-7 días, un plan de acción por escrito y revisión en consulta.",
+      "Estamos ante una crisis de asma moderada, agonistas Beta-2 de acción corta con ipatropio nebulizado y oxígeno en gafa nasal. Y traslado al hospital con ambulancia para tratamiento."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-109",
+    "number": 109,
+    "examId": "mir2025",
+    "specialty": "Geriatría",
+    "statement": "El envejecimiento poblacional es uno de los grandes desafíos de nuestra sociedad. En la consulta del médico de familia debemos usar herramientas para intentar mejorar la calidad de vida de nuestros mayores. Debemos adaptarnos a esta realidad, ofreciendo una atención integral, centrada en la persona y orientada a la prevención, la autonomía y la calidad de vida de dichos pacientes. Si hablamos de atención al anciano en Atención Primaria, elige la respuesta INCORRECTA:",
+    "options": [
+      "La prescripción en cascada ocurre cuando se prescribe un fármaco para tratar síntomas originados por otro fármaco pensando que tiene una condición clínica nueva y no pensando en una reacción adversa o secundaria del fármaco inicial.",
+      "El deterioro funcional y el aumento del riesgo de enfermedad podría considerarse algo normal con el paso de los años, pero la vejes es diversa y sus cambios están influidos por factores genéticos, ambientales o socioeconómicos.",
+      "Entre las pruebas para la detección de la fragilidad está la escala de Frail que evalúa cinco dominios: fatiga, resistencia, mide la incapacidad para bajar escaleras, la deambulación y el aumento de peso.",
+      "En la consulta podemos detectar la fragilidad con múltiples pruebas y test, entre ellos podemos realizar el test de la marcha o el de test de la silla (timed up-and-go)."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-110",
+    "number": 110,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "En el cálculo del riesgo cardiovascular, si usamos el SCORE 2 para la zona de Europa bajo riesgo/España, nos hacen falta todas las siguientes variables, señala la verdadera:",
+    "options": [
+      "Edad, sexo, tabaco, presión arterial sistólica, colesterol total y colesterol LDL.",
+      "Edad, sexo, tabaco, presión arterial sistólica, colesterol total y lipoproteína A.",
+      "Edad, sexo, tabaco, presión arterial sistólica, colesterol total y colesterol HDL.",
+      "Edad, sexo, tabaco, presión arterial sistólica, colesterol total, lipoproteína A, triglicéridos."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-111",
+    "number": 111,
+    "examId": "mir2025",
+    "specialty": "Medicina Familiar y Comunitaria",
+    "statement": "Acude David, paciente de 21 años sin cita, a tu consulta. En su anamnesis refiere tos y odinofagia de 48 horas de evolución. En la exploración presenta exudado amigdalar, eritema en pilares posteriores faríngeos, temperatura de 38,3º C y adenopatía laterocervical derecha dolorosa. No es alérgico a ninguna medicación. Está preocupado por el tratamiento que le vas a recetar porque le cuesta mucho ‘tragar las pastillas’, señale la respuesta correcta:",
+    "options": [
+      "Ante la presencia de cuatro criterios de Centor, realizar test rápido de Estreptococo e iniciar tratamiento con Amoxicilina.",
+      "Ante la presencia de tres criterios de Centor, realizar test rápido de Estreptococo y si es positivo iniciar tratamiento con Amoxicilina.",
+      "Presenta un cuadro típico de faringitis, no es necesario test rápido de Estreptococo y se debería iniciar tratamiento con Amoxicilina.",
+      "Ante la presencia de dos criterios de Centor realizar test rápido de Estreptococo y si es positivo iniciar tratamiento con Azitromicina 500 mg/24 h durante tres días."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-112",
+    "number": 112,
+    "examId": "mir2025",
+    "specialty": "Endocrinología y Nutrición",
+    "statement": "En el tratamiento de la Diabetes, sobre los beneficios y complicaciones de los fármacos, ¿Cuál de las siguientes afirmaciones es INCORRECTA?:",
+    "options": [
+      "La metformina es el fármaco más usado, puede disminuir los niveles de vitamina B 12 y hay que vigilar el filtrado glomerular, si desciende por debajo de 30 ml/min hay que suspenderla.",
+      "Los iSGLT2 bajan peso y minimizan la progresión de la Enfermedad Renal Crónica y la Albuminuria.",
+      "Los iDPP4 pueden disminuir la glicada entre 0,6-0,9 %, tienen un efecto neutro sobre el peso pero son mal toleradas y se desaconsejan en los pacientes mayores.",
+      "La tirzepatida (agonista dual GIP + aGLP1) ha demostrado bajadas de peso importante y beneficio en la esteatosis hepática asociada a disfunción metabólica (MASH)."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-113",
+    "number": 113,
+    "examId": "mir2025",
+    "specialty": "Geriatría",
+    "statement": "Acude Antonia acompañada de su hijo al Centro de Salud, solicitando ayuda para pedir la ley de dependencia. ¿Cuál de las siguientes escalas básicas para valorar el área cognitiva y sus actividades básicas de la vida diaria debería realizarle su médico de familia?:",
+    "options": [
+      "Test de Zarit y Apgar familiar.",
+      "Escala de Goldberg y Rosemberg.",
+      "Escala de Barthel y test de Pfeiffer.",
+      "Escala de Norton y escala de Gijón."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-114",
+    "number": 114,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "A tu consulta de Atención Primaria acude Fidel acompañado de su inseparable botellita de agua y su paquete de tabaco en el bolsillo de la camisa. Es un paciente conocido con EPOC. Está preocupado por su tratamiento. Su vecina Paqui le ha dicho “los corticoides son muy malos” por lo que ha decidido suspender su tratamiento inhalado. El paciente está con triple terapia, ha tenido un ingreso en el último año por reagudización de ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA, presenta una disnea mMRC 2 en la escala de disnea modificada y en sus analíticas presenta una eosinofilia media mayor de 300/mm3. ¿Qué deberíamos proponer a Fidel?:",
+    "options": [
+      "Es un paciente categoría GOLD E de la guía Global Initiative for Chronic Obstructive Lung Disease y no necesita corticoides inhalados. Explicamos al paciente su enfermedad y el porqué de su tratamiento.",
+      "Es un paciente riesgo alto, no agudizador eosinofílico. Explicamos enfermedad y el porqué de su tratamiento y retiramos corticoide inhalado.",
+      "Es un paciente riesgo alto, retiramos corticoide inhalado y ponemos doble broncodilatación. Explicamos al paciente su enfermedad y el porqué de su tratamiento.",
+      "Es un paciente riesgo alto agudizador eosinofílico, debe mantener triple terapia, explicamos al paciente su enfermedad y el porqué de su tratamiento."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-115",
+    "number": 115,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Acude a urgencias un paciente que comenzó con dolor torácico hace 10 minutos estando comiendo en un restaurante cerca del hospital. El electrocardiograma muestra una elevación del segmento ST de 2 mm en derivaciones precordiales desde V1 a V4 ¿Cuál de las siguientes afirmaciones es correcta?:",
+    "options": [
+      "Realizaremos una analítica de sangre con determinación de troponinas para determinar si es un infarto y así activar un cateterismo urgente.",
+      "Administraremos dosis de carga de aspirina lo antes posible.",
+      "El cateterismo ha de realizarse de forma urgente en menos de 2 horas siendo la vía femoral la primera opción por ser la más rápida.",
+      "Sospecharemos una lesión coronaria trombótica oclusiva en la arteria circunfleja."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-116",
+    "number": 116,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "¿En cuál de los siguientes escenarios NO ESTÁ INDICADO el implante de un DAI (desfibrilador automático implantable) ?:",
+    "options": [
+      "Paciente con síndrome de Brugada y síncopes de repetición sin pródromos y recuperación rápida.",
+      "Paciente con miocardiopatía hipertrófica y puntuación de score de riesgo de muerte súbita Hypertrophic Cardiomyopathy – Sudden Cardiac Death (HCM-SCD) de 7%.",
+      "Paciente con miocardiopatía dilatada isquémica con infarto de todo el territorio anterior hace 3 meses, disnea de moderados esfuerzos a pesar del tratamiento médico y Fracción de Eyección del Ventrículo Izquierdo (FEVI) 30%.",
+      "Paciente ingresado seis días con infarto agudo de miocardio revascularizado con stent en el ingreso y FEVI del 35% antes del alta."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-117",
+    "number": 117,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "¿Cuál de las siguientes afirmaciones es FALSA en relación con los anticoagulantes orales de acción directa (ACODs)?:",
+    "options": [
+      "Existen algunos ensayos clínicos que avalan su uso en pacientes en hemodiálisis.",
+      "Tienen menos riesgo de hemorragia intracraneal que los antagonistas de la vitamina K.",
+      "Pueden administrarse en pacientes con valvulopatías y portadores de todo tipo de prótesis cardíacas.",
+      "Son igual o más eficaces que los antagonistas de la vitamina K para prevenir ictus isquémicos."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-118",
+    "number": 118,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Respecto a la estenosis aórtica severa, ¿cuál de las siguientes afirmaciones es FALSA?:",
+    "options": [
+      "Si en la auscultación existe un desdoblamiento normal del segundo ruido cardiaco, descartaremos una estenosis aórtica severa con bastante probabilidad.",
+      "En pacientes más jóvenes, la etiología más frecuente de la misma es la válvula unicúspide.",
+      "Si es sintomática y el paciente tiene más de 70 años se recomienda una prótesis percutánea tipo Transcatheter Aortic Valve Implantation (TAVI).",
+      "La estenosis aórtica severa de bajo flujo y bajo gradiente el TAC cardíaco con valoración del calcio valvular es de utilidad."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-119",
+    "number": 119,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "¿Cuál de los siguientes síncopes NO ingresaría en cardiología para completar estudio?:",
+    "options": [
+      "Varón de 45 años con tres episodios de síncope precedido de cortejo vegetativo y recuperación lenta en el último año.",
+      "Varón de 75 años con fracción de eyección del ventrículo izquierdo del 40%.",
+      "Varón de 75 años con ECG con bloqueo completo de rama izquierda del haz de His.",
+      "Mujer de 37 años con síncope en reposo precedido de palpitaciones."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-120",
+    "number": 120,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "En lo que respecta al diagnóstico de la estenosis aórtica, ¿qué afirmación es FALSA?:",
+    "options": [
+      "La ergometría con intercambio de gases es una prueba que ha de realizarse a todos los pacientes con síntomas.",
+      "La ecocardiografía transesofágica puede ser útil si existen dudas de la severidad.",
+      "El TAC cardíaco es una prueba indispensable previa al implante de una prótesis biológica aórtica percutánea tipo Transcatheter Aortic Valve Implantation (TAVI).",
+      "En pacientes con estenosis aórtica de bajo flujo y bajo gradiente con función ventricular izquierda deprimida, la ecocardiografía de estrés con dobutamina estaría indicada."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-121",
+    "number": 121,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Varón de 56 años fumador sin otros factores de riesgo cardiovascular que acude a urgencias por dolor torácico opresivo desde hace 4 horas con un electrocardiograma inicial que muestra elevación del segmento ST en derivaciones II, II y aVF de 2 mm. A su llegada además se objetiva en la exploración física: tensión arterial 80/40 mmHg, frecuencia cardíaca 40 lpm e ingurgitación de la vena yugular, saturación de O2 basal del 95%. Auscultación cardíaca sin soplos destacables ni edemas. ¿Cuál es el diagnóstico más probable?:",
+    "options": [
+      "Infarto agudo de miocardio con elevación del segmento ST inferior.",
+      "Infarto agudo de miocardio con elevación del segmento ST inferior con rotura del músculo papilar posterior-medial.",
+      "Infarto agudo de miocardio con elevación del segmento ST inferior y de ventrículo derecho.",
+      "Infarto con elevación del segmento ST inferior con rotura del septo interventricular."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-122",
+    "number": 122,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Respecto a la contracción global y segmentaria del ventrículo izquierdo, señale la respuesta CORRECTA:",
+    "options": [
+      "Ante un paciente que ingresa por insuficiencia cardiaca y vemos en el estudio ecocardiográfico que presenta una miocardiopatía dilatada con disfunción ventricular y un aneurisma apical (con la pared adelgazada e hiperecogénica), debemos pensar en un infarto agudo de la descendente anterior (DA) y activar código infarto para un cateterismo urgente.",
+      "El diagnóstico de la miocardiopatía por estrés (Tako-Tsubo) es posible a partir del electrocardiograma y la ecocardiografía (discinesia/hipocinesia severa de todos los segmentos apicales del ventrículo izquierdo con contractilidad preservada de los segmentos basales).",
+      "Los trombos intraventriculares los veremos con más frecuencia adheridos a los segmentos del ventrículo izquierdo que mejor contracción presentan.",
+      "En la miocardiopatía arritmogénica no veremos afectada ni en la ecocardiografía ni en la resonancia cardíaca la contractilidad segmentaría del ventrículo izquierdo."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-123",
+    "number": 123,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "¿Cuál de estos signos o síntomas NO sugiere taponamiento en presencia de derrame pericárdico severo sin otra patología?:",
+    "options": [
+      "Hipotensión arterial refractaria a fluidoterapia intensiva.",
+      "Variación de velocidades de llenado mitral y tricúspide menor del 25% con la inspiración.",
+      "Colapso de aurícula derecha y ventrículo derecho en diástole.",
+      "Situación de parada cardiorrespiratoria con actividad eléctrica sin pulso."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-124",
+    "number": 124,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Respecto a la miocardiopatía hipertrófica, ¿cuál es la respuesta CORRECTA?:",
+    "options": [
+      "Para hacer un diagnóstico de miocardiopatía hipertrófica, no es necesario excluir otras causas cardiacas o sistémicas de sobrecarga del ventrículo izquierdo (hipertensión arterial, estenosis aórtica, enfermedades infiltrativas, etc..).",
+      "La obstrucción a nivel del tracto de salida del ventrículo izquierdo es típica, pero también la podemos encontrar en pacientes con hipertrofia por otro motivo, en el contexto de algún factor desencadenante como deshidratación o estados hiperdinámicos.",
+      "El patrón de realce con gadolinio en la resonancia cardíaca típicamente es en anillo subendocárdico.",
+      "La insuficiencia mitral que vemos característicamente en la miocardiopatía hipertrófica obstructiva suele ser central por dilatación del anillo."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-125",
+    "number": 125,
+    "examId": "mir2025",
+    "specialty": "Cuidados Paliativos",
+    "statement": "Mujer de 84 años con enfermedad de Alzheimer en fase terminal, institucionalizada desde hace tres años, dependiente para todas las actividades básicas y sin lenguaje comprensible. En los últimos seis meses ha requerido tres ingresos por neumonía por aspiración. Tras la última alta, ya en la residencia no acepta alimentos ni líquidos, mantiene la boca cerrada y rechaza la alimentación incluso con ayuda. Su hija, muy angustiada, pide “que se le ponga algo para alimentarla, aunque sea por una sonda”. ¿Cuál es la actuación más adecuada en esta situación?:",
+    "options": [
+      "Colocar una gastrostomía para asegurar el aporte nutricional y explicarle a la hija que debe vigilar que su madre no se la retire.",
+      "Iniciar nutrición parenteral periférica y tranquilizar a la hija diciéndole que así su madre “seguirá recibiendo alimento, aunque no coma”.",
+      "Explicar a la hija que la falta de apetito y deglución son parte del proceso natural y ofrecer cuidados centrados en aliviar el malestar y proporcionar confort.",
+      "Intentar alimentación con espesantes y suplementos hipercalóricos durante unos días, animando a la hija a insistir en que su madre abra la boca y no tosa."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-126",
+    "number": 126,
+    "examId": "mir2025",
+    "specialty": "Geriatría",
+    "statement": "Señale cuál de los siguientes se considera un “Hallmark” o marca del envejecimiento de tipo primario:",
+    "options": [
+      "Desregulación en la señalización de nutrientes.",
+      "Acortamiento de los telómeros.",
+      "Disfunción mitocondrial.",
+      "Agotamiento de células madre."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-127",
+    "number": 127,
+    "examId": "mir2025",
+    "specialty": "Geriatría",
+    "statement": "El Índice de Barthel de un paciente que presenta incontinencia urinaria ocasional, y supervisión física para deambular y subir escaleras, pero es independiente para el resto de las actividades básicas de la vida diaria, es:",
+    "options": [
+      "65",
+      "75",
+      "85",
+      "95"
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-128",
+    "number": 128,
+    "examId": "mir2025",
+    "specialty": "Cuidados Paliativos",
+    "statement": "Un paciente de 68 años con adenocarcinoma de páncreas metastásico en situación de últimos días de vida presenta en las últimas 24 horas agitación, desorientación y alucinaciones visuales. Recibe morfina subcutánea en perfusión continua, dexametasona y midazolam a demanda. En la exploración presenta ictericia y asterixis, sin fiebre ni signos de focalidad neurológica. Los análisis muestran bilirrubina 9 mg/dL, transaminasas x4 y amonio elevado. ¿Cuál de las siguientes medidas farmacológicas es más adecuada en este contexto?:",
+    "options": [
+      "Aumentar la dosis de dexametasona y añadir midazolam.",
+      "Administrar haloperidol y valorar ajustar fármacos potencialmente implicados (como corticoides y morfina)",
+      "Iniciar lactulosa y rifaximina para tratar una posible encefalopatía hepática.",
+      "Sustituir la morfina por buprenorfina sublingual para reducir efectos neurotóxicos."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-129",
+    "number": 129,
+    "examId": "mir2025",
+    "specialty": "Cuidados Paliativos",
+    "statement": "Un paciente con carcinoma de pulmón avanzado recibe morfina oral de liberación prolongada, 120 mg cada 12 horas, con medicación extra frecuente, de hasta 3 ó 4 veces al día. A pesar de ello, refiere dolor persistente (EVA 7/10). En los últimos días ha presentado mioclonías, sueños vívidos y leve confusión intermitente, sin fiebre ni datos de progresión tumoral. La función renal muestra un filtrado glomerular estimado de 40 mL/min/1,73m². ¿Cuál de las siguientes estrategias es la más adecuada para optimizar el control del dolor y mejorar la sintomatología?:",
+    "options": [
+      "Aumentar la dosis de morfina un 25–50 % y asociar benzodiacepinas para controlar las mioclonías.",
+      "Reducir la dosis de morfina a la mitad y añadir un coadyuvante no opioide (AINE).",
+      "Rotar a fentanilo transdérmico calculando la dosis equianalgésica y reduciéndola un 30–50 % por tolerancia cruzada incompleta.",
+      "Suspender el opioide oral y sustituirlo por buprenorfina sublingual a dosis bajas."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-130",
+    "number": 130,
+    "examId": "mir2025",
+    "specialty": "Geriatría",
+    "statement": "Un hombre de 81 años, independiente para las actividades básicas, con hipertensión y diabetes bien controladas, es diagnosticado de adenocarcinoma de próstata oligometastásico, con un PSA de 42 ng/mL y una única lesión ósea asintomática en el sacro. Su estado funcional (ECOG 1) es bueno, aunque presenta fragilidad leve y polifarmacia. El equipo médico debate distintas estrategias terapéuticas (tratamiento hormonal, radioterapia dirigida o vigilancia). Antes de decidir la mejor opción terapéutica, ¿qué aspectos deben considerarse de forma prioritaria en este paciente?:",
+    "options": [
+      "El nivel de PSA y el número de lesiones metastásicas detectadas.",
+      "La posibilidad de aplicar el tratamiento más agresivo disponible, dado que hay enfermedad metastásica.",
+      "Comorbilidades, el estado funcional y la expectativa de vida.",
+      "La edad cronológica del paciente como criterio principal para limitar el tratamiento."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-131",
+    "number": 131,
+    "examId": "mir2025",
+    "specialty": "Oncología Médica",
+    "statement": "¿Cuál es la técnica de elección para la determinación de la expresión de PDL1 en muestra tumoral?:",
+    "options": [
+      "Secuenciación masiva.",
+      "Inmunohistoquímica.",
+      "Western blot.",
+      "Hibridación in situ (FISH)."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-132",
+    "number": 132,
+    "examId": "mir2025",
+    "specialty": "Oncología Médica",
+    "statement": "Varón de 63 años con carcinoma de próstata resistente a la castración con metástasis ganglionares y óseas múltiples. Actualmente, se encuentra en tratamiento con Enzalutamida. Acude a consulta por dolor lumbar de reciente aparición, aunque refiere no haber tomado analgesia. Reconoce episodios de incontinencia urinaria. A la exploración se detecta un ligero déficit motor en extremidad inferior izquierda (3/5). ¿Cuál sería la mejor actitud a seguir con este paciente?:",
+    "options": [
+      "Realización de resonancia magnética urgente.",
+      "Administración de dexametasona 10 mg.",
+      "Administración de AINEs y reevaluación en 48 horas.",
+      "Realización de radiografía simple de columna."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-133",
+    "number": 133,
+    "examId": "mir2025",
+    "specialty": "Oncología Médica",
+    "statement": "Paciente varón de 63 años con antecedentes de miastenia gravis. Ha sido diagnosticado recientemente de melanoma estadio IV con extensa carga de enfermedad con afectación hepática múltiple, pulmonar bilateral y adenopatías generalizadas. Se realiza una determinación de BRAF por inmunohistoquímica siendo positiva para V600E. ¿Cuál sería el tratamiento más razonable teniendo en cuenta el riesgo beneficio?:",
+    "options": [
+      "Pembrolizumab.",
+      "Nivolumab.",
+      "Dabrafenib-Trametinib.",
+      "Nivolumab-Ipilimumab."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-134",
+    "number": 134,
+    "examId": "mir2025",
+    "specialty": "Geriatría",
+    "statement": "Paciente de 92 años que acude a la consulta de Atención Primaria y se le realiza una evaluación de fragilidad según los criterios de Linda P. Fried. Objetivamos los siguientes resultados: Pérdida de peso de 2kg el año previo, fuerza prensora normal para su IMC, no refiere baja resistencia o agotamiento, presenta lentitud de la marcha y un nivel normal de actividad física. ¿Cuál sería su nivel de fragilidad?:",
+    "options": [
+      "Robusto.",
+      "Pre-frágil.",
+      "Frágil.",
+      "Discapacitado."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-135",
+    "number": 135,
+    "examId": "mir2025",
+    "specialty": "Reumatología",
+    "statement": "Acude a urgencias un varón de 25 años con una uveítis anterior izquierda. En su historial clínico únicamente destaca que ha tenido úlceras orales dolorosas con cierta frecuencia en los últimos dos años. Refiere la aparición de una pápula eritematosa alrededor del sitio de punción de la vacuna antigripal, que recibió recientemente. ¿Cuál es el diagnóstico más probable?:",
+    "options": [
+      "Sarcoidosis.",
+      "Sífilis.",
+      "Enfermedad de Behçet.",
+      "Enfermedad de Crohn."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-136",
+    "number": 136,
+    "examId": "mir2025",
+    "specialty": "Reumatología",
+    "statement": "Acude a su consulta un varón de 70 años con rigidez matutina y dolor a la movilización de cintura escapular y pélvica bilateral, desde hace tres meses, sin afectación de otras articulaciones periféricas. En la analítica destacan una leve anemia normocítica normocrómica y una velocidad de sedimentación glomerular de 85 mm en la primera hora. El factor reumatoide y los anticuerpos antipeptídicos citrulinados son negativos. ¿Cuál es su diagnóstico?:",
+    "options": [
+      "Artritis reumatoide seronegativa.",
+      "Polimialgia reumática.",
+      "Artritis indiferenciada.",
+      "Artrosis."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-137",
+    "number": 137,
+    "examId": "mir2025",
+    "specialty": "Nefrología",
+    "statement": "En un paciente ingresado por un shock hipovolémico, con oliguria ¿cuál de los siguientes hallazgos sugiere el desarrollo de necrosis tubular aguda?:",
+    "options": [
+      "Sodio urinario < 20 mEq/L.",
+      "Excreción fraccional de sodio <1%.",
+      "Cociente creatinina urinaria/creatinina plasmática mayor de 40.",
+      "Osmolalidad urinaria menor de 350 mOsmoles/Kg."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-138",
+    "number": 138,
+    "examId": "mir2025",
+    "specialty": "Hematología y Hemoterapia",
+    "statement": "Varón de 80 años con gonartrosis. Acude a estudio preoperatorio previo a prótesis de rodilla derecha. Su hemograma es normal. Los tests de coagulación muestran INR:1, tiempo de cefalina-caolín 47´´ (valor normal 27-37). La agregación plaquetaria con ristocetina está ligeramente alterada, pero es normal con colágeno y ADP. El paciente no refiere ninguna clínica hemorrágica. ¿Cuál es la causa de esta alteración en las pruebas de coagulación?:",
+    "options": [
+      "Heterocigosis para hemofilia A.",
+      "Enfermedad de von Willebrand tipo I.",
+      "Anticoagulante lúpico.",
+      "Síndrome de Bernard-Soulier."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-139",
+    "number": 139,
+    "examId": "mir2025",
+    "specialty": "Hematología y Hemoterapia",
+    "statement": "Mujer de 55 años diagnosticada de lupus eritematoso sistémico. Consulta por astenia en los últimos tres meses. En la analítica destacan eritrocitos: 3x10¹²/L, Hemoglobina: 9,1 g/dL, volumen corpuscular medio: 81 fL, reticulocitos: 250x10⁹/L, leucocitos: 7.2x10⁹/L, plaquetas: 230x10⁹/L. Sideremia: 25 mcg/dL, saturación de transferrina: 19%. Ferritina: 400 ng/mL ¿Qué tipo de anemia tiene esta paciente?:",
+    "options": [
+      "Anemia inflamatoria crónica.",
+      "Anemia ferropénica.",
+      "Anemia hemolítica.",
+      "Talasemia menor."
+    ],
+    "correctIndex": null,
+    "annulled": true,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-140",
+    "number": 140,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Varón de 55 años que tuvo un síndrome coronario agudo hace un año. Acude a consulta de su médico de atención primaria para hacer una revisión, encontrándose asintomático. Su presión arterial es de 135/85 mmHg, sus niveles de colesterolLDL son de 100 mg/dL. En relación con la prevención secundaria de la cardiopatía isquémica, ¿es necesario hacer algún ajuste terapéutico?:",
+    "options": [
+      "Hay que optimizar el tratamiento antihipertensivo porque los niveles de presión arterial están por encima de los niveles objetivo.",
+      "Hay que optimizar el tratamiento hipolipemiante porque los niveles de colesterolLDL están por encima de los niveles objetivo.",
+      "Tanto los niveles de presión arterial como los niveles de colesterol-LDL se encuentran dentro del rango objetivo.",
+      "Hay que optimizar el tratamiento de la presión arterial y el tratamiento hipolipemiante."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-141",
+    "number": 141,
+    "examId": "mir2025",
+    "specialty": "Nefrología",
+    "statement": "Acude al servicio de urgencias una mujer de 67 años con astenia, náuseas y cefalea. Tiene antecedentes de hipertensión arterial actualmente en tratamiento con enalaprilhidroclorotiazida (20/12.5mg) y diabetes mellitus tipo 2 en tratamiento con metformina. Su tensión arterial es de 138/88 mmHg y su frecuencia cardíaca 80 latidos por minuto. La exploración física es normal, se encuentra bien hidratada y no tiene edemas. En la analítica realizada en urgencias encontramos: sodio 122 mEq/L, potasio: 4.3mEq/L, creatinina 0.8mg/dL. La osmolalidad plasmática es 257mOsm/kg y el sodio urinario 45 mEq/L. Hace un mes estuvo en la consulta de su médico de familia, quien le cambió el tratamiento antihipertensivo y le hizo una analítica general que fue normal. ¿Cuál es su diagnóstico?:",
+    "options": [
+      "Hiponatremia inducida por tiazidas.",
+      "Insuficiencia suprarrenal.",
+      "Potomanía.",
+      "Pseudohiponatremia por hiperglucemia."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-142",
+    "number": 142,
+    "examId": "mir2025",
+    "specialty": "Endocrinología y Nutrición",
+    "statement": "Valora en la consulta a una paciente de 56 años por un cuadro de unos 10 días de febrícula, bocio de pequeño tamaño, levemente doloroso a la presión y que muestra un aumento de la vascularización tiroidea en la ecografía. Está ansiosa, levemente sudorosa. Su frecuencia cardíaca es de 100 latidos por minuto y su presión arterial de 145/75 mmHg ¿Cuál de las siguientes combinaciones de hallazgos complementarios esperaría según su sospecha diagnóstica?:",
+    "options": [
+      "TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides negativos e hipocaptación de iodo en la gammagrafía tiroidea.",
+      "TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides positivos e hipercaptación de iodo en la gammagrafía tiroidea.",
+      "TSH elevada, T4 libre elevada, anticuerpos estimulantes del tiroides negativos e hipercaptación de iodo en la gammagrafía tiroidea.",
+      "TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides positivos e hipocaptación de iodo en la gammagrafía tiroidea."
+    ],
+    "correctIndex": null,
+    "annulled": true,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-143",
+    "number": 143,
+    "examId": "mir2025",
+    "specialty": "Endocrinología y Nutrición",
+    "statement": "Un paciente de 39 años que presenta emisión recidivante de orina rojiza, episodios repetidos de dolor abdominal de etiología no diagnosticada, acude a urgencias con un nuevo episodio de dolor abdominal intenso. En los estudios realizados en urgencias se objetiva una trombosis venosa mesentérica. ¿Cuál es el diagnóstico de sospecha que considera más probable?:",
+    "options": [
+      "Hemoglobinuria paroxística nocturna.",
+      "Síndrome antifosfolípido.",
+      "Coproporfiria eritropoyética.",
+      "Fiebre mediterránea familiar."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-144",
+    "number": 144,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Un paciente de 56 años ha perdido 10kg en el último año coincidiendo con un notable aumento de las deposiciones que son pastosas, amarillas y flotantes. Presenta dolor epigástrico-mesogástrico postprandial que limita la ingesta. Hace 4 años recibió tratamiento erradicador de Helicobacter Pylori por úlcera duodenal recidivante. ¿Cuál de las siguientes exploraciones en heces le parece más útil en el primer estudio para orientar el diagnóstico?:",
+    "options": [
+      "Estudio coproparasitario.",
+      "Aclaramiento fecal de alfa-1-antitripsina.",
+      "Determinación de antígeno de Helicobacter Pylori en heces.",
+      "Cuantificación de elastasa fecal."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-145",
+    "number": 145,
+    "examId": "mir2025",
+    "specialty": "Medicina Legal y Bioética",
+    "statement": "Según el Real decreto 888/2022, ¿a partir de qué grado se reconoce oficialmente la condición de persona con discapacidad en España (anteriormente llamada “minusvalía”) ?:",
+    "options": [
+      "25%.",
+      "30%.",
+      "33%.",
+      "45%."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-146",
+    "number": 146,
+    "examId": "mir2025",
+    "specialty": "Rehabilitación y Medicina Física",
+    "statement": "En la prescripción de ayudas para la marcha, es importante conocer qué músculos intervienen para potenciarlos en caso de que puedan estar deficitarios. ¿Cuál de los siguientes músculos NO es prioritario en el control de la marcha asistida?:",
+    "options": [
+      "Flexores de dedos.",
+      "Extensores de muñecas.",
+      "Pronador redondo.",
+      "Tríceps braquial."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-147",
+    "number": 147,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Mujer de 72 años, con antecedentes personales de enfermedad pulmonar obstructiva crónica y artrosis. Toma antiinflamatorio no esteroideo clásico diario y ácido acetilsalicílico a baja dosis. Acude a urgencias por presentar melenas. En la endoscopia de urgencias se objetiva una úlcera gástrica Forrest III en curvatura menor, con biopsias negativas para malignidad y Helicobacter pylori negativo. Conducta más adecuada a medio plazo:",
+    "options": [
+      "Reiniciar antiinflamatorio no esteroideo y ácido acetilsalicílico igual, con inhibidor de la bomba de protones 2 semanas.",
+      "Mantener inhibidor de la bomba de protones a dosis plenas, reevaluar la necesidad de antiinflamatorio no esteroideo y realizar endoscopia de control para confirmar cicatrización.",
+      "Cambiar inhibidor de la bomba de protones por antih2.",
+      "Cambiar antiinflamatorio no esteroideo por paracetamol e inhibidor de la bomba de protones a demanda."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-148",
+    "number": 148,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Paciente varón de 58 años, con historia de más de 15 años de pirosis y regurgitación, tratada de forma intermitente con inhibidores de la bomba de protones. No fumador, índice de masa corporal de 35 kg/m². Consulta por empeoramiento de los síntomas. Se realiza gastroscopia en la que se objetiva un segmento de mucosa columnar de 5 cm por encima de la unión esófago-gástrica (C3M5), sin lesiones nodulares. Se toman biopsias con el resultado siguiente: metaplasia intestinal con displasia de bajo grado en dos cilindros. La revisión por un patólogo experto en esófago de Barrett confirma la presencia de displasia de bajo grado verdadera. Según las recomendaciones actuales de manejo del Barrett con displasia confirmada, la actitud MÁS adecuada es:",
+    "options": [
+      "Mantener inhibidor de la bomba de protones a demanda y repetir endoscopia de control a los 3 años.",
+      "Repetir endoscopia en 12 meses sin otras medidas, dado que es displasia de bajo grado.",
+      "Ofrecer ablación por radiofrecuencia mediante endoscopia en centro experto, manteniendo inhibidor de la bomba de protones.",
+      "Indicar esofaguectomía subtotal profiláctica por el riesgo acumulado de carcinoma."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-149",
+    "number": 149,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Paciente de 52 años, con pirosis y dolor retroesternal. Se le realiza una endoscopia alta en la que se observa esofagitis erosiva grado C de Los Ángeles. ¿Cuál de las siguientes afirmaciones es CORRECTA?:",
+    "options": [
+      "Un ciclo corto de 2 semanas de inhibidor de la bomba de protones sería suficiente para asegurar la curación mucosa esofágica.",
+      "Debe plantearse tratamiento de mantenimiento con inhibidor de la bomba de protones a largo plazo.",
+      "Una vez curada la esofagitis, no existe riesgo aumentado de Barrett.",
+      "El tratamiento de elección son los anti-h2 nocturnos como monoterapia."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-150",
+    "number": 150,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Respecto a la diferenciación entre colitis ulcerosa y colitis de Crohn, señale la opción MÁS correcta:",
+    "options": [
+      "La afectación parcheada y el recto respetado obligan siempre a diagnosticar Crohn.",
+      "La presencia de granulomas no caseificantes en biopsia colónica es fuertemente sugestiva de Crohn.",
+      "La afectación continua desde el recto hasta el ciego es típica de Crohn colónica pura.",
+      "La afectación del íleon terminal nunca aparece en la colitis ulcerosa."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-151",
+    "number": 151,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Paciente con 23 años, quiere saber si es celíaco, porque su madre lo es. Pregunta sobre el estudio genético. Respecto al papel del estudio genético HLA-DQ2/DQ8 en enfermedad celíaca, señale la opción CORRECTA:",
+    "options": [
+      "Es una prueba diagnóstica confirmatoria cuando es positiva.",
+      "Un resultado negativo para HLA-DQ2 y HLA-DQ8 hace muy improbable el diagnóstico de enfermedad celíaca.",
+      "Solo es útil en el cribado poblacional general.",
+      "Debe solicitarse de rutina en todos los pacientes con serología positiva."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-152",
+    "number": 152,
+    "examId": "mir2025",
+    "specialty": "Cirugía General y del Aparato Digestivo",
+    "statement": "Paciente con pancreatitis aguda grave por litiasis biliar, necrosis extensa estéril del cuerpo y cola. A las 3 semanas, fiebre, dolor persistente, PCR elevada. En el TAC de abdomen con contraste se observa una colección encapsulada con niveles líquidoaire y necrosis pancreática. ¿Cuál es la conducta MÁS adecuada?:",
+    "options": [
+      "Laparotomía urgente con necrosectomía abierta.",
+      "Mantener tratamiento conservador, la presencia de gas no sugiere infección.",
+      "Abordaje escalonado: drenaje mínimamente invasivo (endoscópico/percutáneo) guiado y necrosectomía diferida si es necesario.",
+      "Esclerosis percutánea con alcohol absoluto."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-153",
+    "number": 153,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "En relación con el cribado de cáncer colorrectal en el síndrome de Lynch (MLH1/MSH2), señale la opción CORRECTA:",
+    "options": [
+      "El paciente debe hacerse colonoscopias cada 10 años desde los 50 años.",
+      "El paciente debe hacerse colonoscopias cada 5 años desde los 40 años o 10 años antes del caso más joven.",
+      "El paciente debe hacerse colonoscopias cada 1-2 años desde los 20-25 años o 25 años antes del caso más joven en la familia.",
+      "El paciente debe hacerse colonoscopias solo si test de sangre oculta en heces es positivo."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-154",
+    "number": 154,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Mujer de 55 años con diarrea acuosa crónica, no sanguinolenta, de meses de evolución, con colonoscopia macroscópicamente normal. Las biopsias colónicas muestran infiltrado inflamatorio de la lámina propia con banda colágena subepitelial engrosada >10 μm. El diagnóstico MÁS probable es:",
+    "options": [
+      "Colitis ulcerosa izquierda.",
+      "Enfermedad de Crohn colónica.",
+      "Colitis microscópica linfocítica.",
+      "Colitis microscópica colágena."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-155",
+    "number": 155,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Paciente de 32 años con colitis ulcerosa extensa de 10 años de evolución, en remisión clínica y endoscópica, sin displasia en colonoscopias previas. ¿Cree que debe realizarse colonoscopias de revisión para la vigilancia endoscópica del cáncer colorrectal?:",
+    "options": [
+      "No precisa vigilancia hasta los 20 años de evolución.",
+      "Debe realizarse colonoscopia con cromoendoscopia dirigida cada 3-5 años.",
+      "Solo es necesario control si presenta antecedentes familiares de CCR.",
+      "La biopsia aleatoria en todos los segmentos ha sustituido completamente a la cromoendoscopia."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-156",
+    "number": 156,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "¿Cómo se define actualmente la hipertensión pulmonar?:",
+    "options": [
+      "Presión media en arteria pulmonar en reposo medida por cateterismo cardíaco > 20 mmHg.",
+      "Presión media en arteria pulmonar en reposo medida por cateterismo cardíaco > 25 mmHg.",
+      "Presión sistólica en arteria pulmonar en reposo medida por ecocardiografía > 25 mmHg.",
+      "Presión sistólica en arteria pulmonar en reposo medida por cateterismo cardíaco > 20 mmHg."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-157",
+    "number": 157,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "¿En qué casos debe priorizarse la indicación de tratamiento con CPAP para la apnea obstructiva del sueño (AOS)?:",
+    "options": [
+      "Pacientes con índice de apneas-hipopneas (IAH) ≥ 5 eventos/hora sin síntomas ni comorbilidades.",
+      "Todo paciente con AOS independientemente de la clínica o las comorbilidades.",
+      "Pacientes con IAH ≥ 30 eventos/hora asintomáticos.",
+      "Pacientes con IAH ≥ 15 eventos/hora y somnolencia diurna (Epworth> 10 puntos)."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-158",
+    "number": 158,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "En el Síndrome de Distrés Respiratorio Agudo (SDRA), ¿cuál de las siguientes opciones es el hallazgo fisiopatológico característico?:",
+    "options": [
+      "Aumento del espacio muerto anatómico sin alteración del intercambio gaseoso.",
+      "Hipoxemia con PaO₂/FiO₂ ≤ 300 asociada a shunt intrapulmonar y disminución de la distensibilidad.",
+      "Hipercapnia leve con aumento de la compliance pulmonar.",
+      "Aumento de la presión alveolar de CO₂ con distensibilidad normal."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-159",
+    "number": 159,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "Un paciente con bronquitis crónica tabáquica ha desarrollado hipertensión pulmonar crónica secundaria. ¿Cuál es el mecanismo fisiopatológico principal que produce la hipertensión arterial pulmonar en esta situación?:",
+    "options": [
+      "Microtromboembolismo pulmonar crónico múltiple por disfunción endotelial hipóxica.",
+      "Remodelado vascular por disfunción endotelial primaria.",
+      "Vasoconstricción hipóxica crónica.",
+      "Disfunción ventricular izquierda y aumento retrógrado de la presión."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-160",
+    "number": 160,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "En el contexto de la Fibrosis Quística (FQ), ¿qué función principal tiene la proteína CFTR en el epitelio de las vías respiratorias?:",
+    "options": [
+      "Actúa como un canal que transporta cloro y regula la hidratación de las secreciones.",
+      "Transporta glucosa al interior de las células epiteliales para obtener energía.",
+      "Es una enzima que degrada el moco espeso acumulado en los bronquios.",
+      "Estimula la contracción de los cilios para expulsar las secreciones bronquiales."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-161",
+    "number": 161,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "Mujer de 73 años, exbebedora importante, con cuadros de palpitaciones ocasionales no estudiados, intervenida hace 2 años de una neoplasia de mama izquierda, con resección completa y vaciamiento ganglionar que acude a consulta para estudio por una tos seca de 3 meses de evolución que va aumentando progresivamente. El cuadro se acompaña de sensación disneica con los esfuerzos. En la radiografía simple del tórax se aprecia un derrame pleural izquierdo. Se realiza una toracocentesis diagnóstica y nos da un líquido ligeramente hemático con la siguiente bioquímica: pH 7,34, proteínas 6,8 gr/dl (en plasma 8 gr/dl), glucosa 73 mg/dl (plasma 70 mg/dl). ¿Cuál es la causa más probable del derrame pleural?:",
+    "options": [
+      "Insuficiencia cardíaca de novo.",
+      "Cirrosis hepática.",
+      "Metástasis pleural de la neoplasia de mama.",
+      "Síndrome nefrótico La citrulina se condensa con glutamato para formar argininosuccinato en el citosol."
+    ],
+    "correctIndex": null,
+    "annulled": true,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-162",
+    "number": 162,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "¿En cuál de las siguientes situaciones se debe realizar prioritariamente un estudio etiológico completo en un paciente con neumonía adquirida en la comunidad (NAC)?:",
+    "options": [
+      "En pacientes con NAC grave, hospitalizados o que no responden al tratamiento empírico.",
+      "En pacientes jóvenes sin comorbilidades para evitar el uso de antibióticos de amplio espectro.",
+      "En todos los pacientes con diagnóstico de NAC para guiar el tratamiento inicial.",
+      "Únicamente en pacientes con factores de riesgo epidemiológico, como viajes recientes."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-163",
+    "number": 163,
+    "examId": "mir2025",
+    "specialty": "Neumología y Cirugía Torácica",
+    "statement": "¿En cuál de las siguientes enfermedades el lavado broncoalveolar NO tiene un papel relevante para el diagnóstico?:",
+    "options": [
+      "Histiocitosis de células de Langerhans pulmonar.",
+      "Neumonía eosinofílica crónica.",
+      "Neumonía intersticial usual idiopática.",
+      "Sarcoidosis."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-164",
+    "number": 164,
+    "examId": "mir2025",
+    "specialty": "Neurología y Neurocirugía",
+    "statement": "¿Cuál de los siguientes hallazgos en el líquido cefalorraquídeo (LCR) hace cuestionar el diagnóstico de esclerosis múltiple?:",
+    "options": [
+      "Presencia de bandas oligoclonales.",
+      "Pleocitosis leve linfocitaria.",
+      "Hiperproteinorraquia>100 mg/dl.",
+      "Índice IgG elevado."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-165",
+    "number": 165,
+    "examId": "mir2025",
+    "specialty": "Neurología y Neurocirugía",
+    "statement": "¿Cuál es la tríada clínica característica de la hidrocefalia normotensiva del adulto?:",
+    "options": [
+      "Trastorno de la marcha, incontinencia urinaria y deterioro cognitivo.",
+      "Cefalea, vómitos y rigidez de nuca.",
+      "Diplopía, papiledema y tinnitus pulsátil.",
+      "Vómitos, bradicardia y alteración del nivel de conciencia."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-166",
+    "number": 166,
+    "examId": "mir2025",
+    "specialty": "Neurología y Neurocirugía",
+    "statement": "En relación con la narcolepsia tipo 1, ¿cuál de las siguientes afirmaciones es correcta?:",
+    "options": [
+      "Se asocia a deficiencia de hipocretina (orexina) en el líquido cefalorraquídeo.",
+      "No cursa con cataplejía ni alteraciones del sueño REM.",
+      "Es más frecuente en mujeres y se asocia a exceso de serotonina.",
+      "No se relaciona con ningún alelo HLA específico."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-167",
+    "number": 167,
+    "examId": "mir2025",
+    "specialty": "Neurología y Neurocirugía",
+    "statement": "Respecto al diagnóstico diferencial de las crisis epilépticas, ¿cuál de las siguientes afirmaciones es correcta?:",
+    "options": [
+      "Los síncopes neuromediados tienen una fase tónica prolongada.",
+      "En las crisis psicógenas el electroencefalograma (EEG) muestra siempre descargas epileptiformes.",
+      "La amnesia global transitoria cursa con pérdida de conciencia prolongada.",
+      "Los síncopes presentan recuperación rápida sin confusión proscritica."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-168",
+    "number": 168,
+    "examId": "mir2025",
+    "specialty": "Neurología y Neurocirugía",
+    "statement": "¿Cuál de las siguientes características es típica de la cefalea tensional?:",
+    "options": [
+      "Dolor pulsátil bilateral con fotofobia.",
+      "Dolor pulsátil unilateral.",
+      "Dolor opresivo bilateral.",
+      "Dolor que empeora con el ejercicio físico."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-169",
+    "number": 169,
+    "examId": "mir2025",
+    "specialty": "Neurología y Neurocirugía",
+    "statement": "¿Cuál de los siguientes hallazgos apoya el diagnóstico de enfermedad de Parkinson según los criterios de la Movement Disorder Society (MDS)?:",
+    "options": [
+      "Ausencia de respuesta al tratamiento con levodopa.",
+      "Pérdida de olfato.",
+      "Caídas recurrentes en los primeros años.",
+      "Disfunción cerebelosa precoz."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-170",
+    "number": 170,
+    "examId": "mir2025",
+    "specialty": "Neurología y Neurocirugía",
+    "statement": "En la exploración del tono muscular, ¿qué caracteriza a la hipertonía espástica?:",
+    "options": [
+      "Aumento de la resistencia constante durante todo el movimiento.",
+      "Aumento de la resistencia dependiente de la velocidad del movimiento.",
+      "Disminución del tono con ausencia de resistencia.",
+      "Resistencia irregular con fenómeno de rueda dentada."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-171",
+    "number": 171,
+    "examId": "mir2025",
+    "specialty": "Cirugía General y del Aparato Digestivo",
+    "statement": "Una mujer de 53 años es diagnosticada de vólvulo de intestino medio e isquemia intestinal. Se realiza laparotomía para liberar la obstrucción intestinal. ¿Cuál de las siguientes estructuras se usa como punto de referencia anatómico para determinar la posición de la unión duodenoyeyunal?:",
+    "options": [
+      "Ligamento de Treitz.",
+      "Arteria mesentérica superior.",
+      "Arteria mesentérica inferior.",
+      "Ligamento frenocólico"
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-172",
+    "number": 172,
+    "examId": "mir2025",
+    "specialty": "Genética",
+    "statement": "Recién nacido a término con macrosomía, macroglosia, onfalocele e hipoglucemias persistentes por hiperinsulinismo. Ecografía normal excepto visceromegalia. ¿Qué alteración molecular explica mejor este fenotipo clásico?:",
+    "options": [
+      "Pérdida de metilación en IC2 (KCNQ1OT1) paterna.",
+      "Ganancia de metilación en IC1 (H19/IGF2) materna.",
+      "Mutación pérdida de sentido paterna en CDKN1C.",
+      "Deleción de IGF2 en alelo paterno."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-173",
+    "number": 173,
+    "examId": "mir2025",
+    "specialty": "Bioquímica",
+    "statement": "Respecto a los aminoácidos que participan en el ciclo de la urea, señale la opción correcta:",
+    "options": [
+      "La citrulina se condensa con glutamato para formar arginino succinato en el citosol.",
+      "La ornitina aporta directamente el segundo nitrógeno que se elimina como urea.",
+      "La asparagina dona el primer nitrógeno a la carbamoil fosfato sintasa de la mitocondria.",
+      "El aspartato aporta el segundo nitrógeno de la urea al condensarse con citrulina para formar arginino succinato."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-174",
+    "number": 174,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "Lactante varón de 10 meses llevado a urgencias por fiebre y dificultad respiratoria. Presenta otitis medias recurrentes desde los 6 meses y un episodio previo de neumonía bacteriana. La madre refiere que “nunca tuvo amígdalas grandes”. En el hemograma destaca leucocitosis neutrofílica. Inmunoglobulinas IgG, IgA e IgM muy disminuidas. La citometría de flujo muestra linfocitos T dentro de rango de normalidad y linfocitos B CD19+ prácticamente ausentes. ¿Cuál es la alteración genética más probable?:",
+    "options": [
+      "Mutación en RAG1.",
+      "Deleción 22q11.2.",
+      "Mutación en BTK.",
+      "Deficiencia de ADA."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-175",
+    "number": 175,
+    "examId": "mir2025",
+    "specialty": "Hematología y Hemoterapia",
+    "statement": "En relación con el síndrome de liberación de citocinas relacionado con la terapia con células CAR-T (linfocitos T modificados para expresar un CAR o chimeric antigen receptor) contra el antígeno CD-19 para el tratamiento de linfomas agresivos, señale la opción verdadera:",
+    "options": [
+      "Se considera una complicación tardía que suele presentarse a las 2-3 semanas de recibir el tratamiento.",
+      "Se produce por un incremento suprafisiológico de algunas citosinas tales como la interleucina 6 (IL-6) e interleucina 1 (IL-1).",
+      "Las manifestaciones clínicas características incluyen fiebre e hipertensión.",
+      "El tozilizumab se utiliza de forma excepcional para su tratamiento."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-176",
+    "number": 176,
+    "examId": "mir2025",
+    "specialty": "Hematología y Hemoterapia",
+    "statement": "Un varón de 11 meses de edad presenta irritabilidad y llanto al movilizar la extremidad inferior derecha. En la exploración física destaca una tumefacción de la rodilla derecha, que se muestra caliente y enrojecida. En el estudio básico de coagulación se observa: tiempo de protrombina (TP) de 11 segundos (rango: 9-15 segundos) y un tiempo de tromboplastina parcial activada (TTPA) de 80 segundos (rango: 20-40 segundos). Se solicita una prueba de mezclas que corrige la alteración de la coagulación. ¿Qué opción diagnóstica NO se ajusta a las alteraciones analíticas observadas?:",
+    "options": [
+      "Déficit de factor VII.",
+      "Déficit de factor VIII.",
+      "Déficit de factor IX.",
+      "Enfermedad de von Willebrand tipo 3."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-177",
+    "number": 177,
+    "examId": "mir2025",
+    "specialty": "Pediatría",
+    "statement": "La exanguinotransfusión es un procedimiento terapéutico que se utiliza de forma característica en el tratamiento de:",
+    "options": [
+      "Púrpura trombótica trombocitopénica (PTT) inmunomediada.",
+      "Síndrome de Guillain-Barré.",
+      "Rechazo humoral agudo en trasplante renal.",
+      "Enfermedad hemolítica del recién nacido."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-178",
+    "number": 178,
+    "examId": "mir2025",
+    "specialty": "Hematología y Hemoterapia",
+    "statement": "Una mujer de 70 años consulta por astenia. Presenta una hemoglobina de 8.1 g/dl, VCM de 72 fl (rango: 84-100 fl) y CHCM de 25 g/dl (rango: 31.5-34.5 g/dl). En el hemograma, tiene una cifra de plaquetas de 530.000/mcrl. En la bioquímica, la LDH, la bilirrubina y la función renal son normales. Revisando sus analíticas previas, años atrás normales, observamos que las alteraciones han ido desarrollándose de forma progresiva en el último año. ¿Cuál es el diagnóstico más probable y qué prueba/s solicitaría para continuar el estudio de esta paciente?:",
+    "options": [
+      "Trombocitemia esencial. Estudio de médula ósea.",
+      "Betatalasemia intermedia. Electroforesis de hemoglobinas y estudio genético.",
+      "Esferocitosis hereditaria. Prueba de unión con esosina-5’-maleimida (EMA).",
+      "Anemia ferropénica. Ferritina sérica y estudios digestivos."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-179",
+    "number": 179,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Hombre de 60 años con antecedentes personales de fumador de 30 paq/año, hipertensión arterial, dislipemia, hígado graso. Tratamiento con enalapril, simvastatina y 100 mg de ácido acetilsalicílico por ictus hace 5 años. Tiene una artritis psoriásica a tratamiento con metotrexato a dosis de 25 mg/semana a pesar de lo cual presenta mal control de la actividad y precisa cambio de tratamiento. ¿Cuál considera que NO es la mejor opción de tratamiento?:",
+    "options": [
+      "Biológico con mecanismo de acción antiTNF (Factor de Necrosis Tumoral).",
+      "Sintético con diana específica inhibidor de JAK.",
+      "Biológico con mecanismo de acción antiIL17.",
+      "Biológico con mecanismo de acción antiIL12/23."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-180",
+    "number": 180,
+    "examId": "mir2025",
+    "specialty": "Urología",
+    "statement": "Varón de 58 años, sin antecedentes personales ni toma de fármacos que tras un control anual de empresa es diagnosticado de carcinoma renal por lo que se inicia tratamiento con Pembrolizumab (anti PD1). Acude a S de Reumatología por un cuadro de poliartritis, predominantemente rizomiélica, de 2 meses de evolución con marcada elevación de reactantes de fase aguda. El análisis de orina, el hemograma y la bioquímica son normales. El factor reumatoide y los anti péptido cíclico citrulinado son negativos. Los ANA positivos a títulos de 1/80 patrón homogéneo ¿Cuál de los siguientes diagnósticos sería el más probable?:",
+    "options": [
+      "Vasculitis secundaria al carcinoma.",
+      "Síndrome paraneoplásico.",
+      "Enfermedad reumática secundaria al Pembrolizumab.",
+      "Lupus eritematoso sistémico."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-181",
+    "number": 181,
+    "examId": "mir2025",
+    "specialty": "Reumatología",
+    "statement": "Paciente de 55 años que acude por cuadro de monoartritis aguda autolimitada de primera metatarsofalángica. Refiere episodios repetidos en los últimos 3 años que trató con analgésicos. Aporta analítica con uricemia de 11 mg/dl. Resto de estudios normales. ¿Cuál sería el tratamiento más indicado para el paciente?:",
+    "options": [
+      "Colchicina y antiinflamatorios durante la crisis y luego suspender ambos.",
+      "Colchicina y antiinflamatorios y cuando esté asintomático suspender antiinflamatorios y añadir alopurinol.",
+      "Alopurinol y antiinflamatorios durante la crisis y después suspender ambos.",
+      "Colchicina y antiinflamatorios durante la crisis y después suspender antiinflamatorios y mantener colchicina."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-182",
+    "number": 182,
+    "examId": "mir2025",
+    "specialty": "Reumatología",
+    "statement": "¿Cuál de las siguientes afirmaciones sobre los anticuerpos antinucleares es correcta?:",
+    "options": [
+      "Los pacientes con lupus inducido por fármacos suelen tener anticuerpos antihistonas y anti-DNA de doble cadena positivos.",
+      "Los anticuerpos anti-DNA de cadena única son específicos del lupus eritematoso sistémico.",
+      "El título de anticuerpos anti-DNA de doble cadena suele guardar correlación con la actividad de la glomérulo nefritis lúpica.",
+      "La positividad de anticuerpos anti-Sm orienta hacia el diagnostico de lupus inducido por fármacos."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-183",
+    "number": 183,
+    "examId": "mir2025",
+    "specialty": "Reumatología",
+    "statement": "Una mujer de 50 años acude a consulta por dolor lumbar inflamatorio. La exploración denota limitación de la movilidad lumbar y tumefacción global del segundo y tercero dedo de pie derecho y cuarto dedo de pie izquierdo. No tiene lesiones cutáneas. La analítica demuestra elevación de reactantes de fase aguda. El Factor reumatoide (FR) y los anticuerpos contra péptido cíclico citrulinado (ACPA) son negativos. Los anticuerpos antinucleares (ANA) y el HLAB27 también son negativos. Los estudios de imagen de ambos pies evidencian la presencia de erosión junto a neoformación ósea yuxta-articular. ¿Cuál sería su diagnóstico?:",
+    "options": [
+      "Artritis reumatoide.",
+      "Enfermedad mixta del tejido conectivo.",
+      "Sarcoidosis.",
+      "Artritis psoriásica."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-184",
+    "number": 184,
+    "examId": "mir2025",
+    "specialty": "Reumatología",
+    "statement": "¿Cuál de estas afirmaciones es correcta sobre las vasculitis pulmonares?:",
+    "options": [
+      "La granulomatosis eosinofílica con poliangitis (GEPA) tiene autoanticuerpos ANCA anti-PR3 elevados en el 80% de los casos.",
+      "La enfermedad anti-membrana basal glomerular comienza siempre con afectación pulmonar seguida en ocasiones de una afectación renal leve.",
+      "Poliangitis microscópica cursa como una forma de asma grave con escasa participación renal.",
+      "La granulomatosis con poliangitis (GPA) afecta frecuentemente a la vía aérea superior."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-185",
+    "number": 185,
+    "examId": "mir2025",
+    "specialty": "Endocrinología y Nutrición",
+    "statement": "Un paciente de 62 años acude para seguimiento tras un hallazgo incidental de una masa suprarrenal de 2.5 cm identificada en una ecografía realizada por dolor abdominal inespecífico. Está asintomático y sin antecedentes de cáncer. Según las guías actuales, ¿qué técnica de imagen sería la más indicada para caracterizar inicialmente el incidentaloma adrenal?:",
+    "options": [
+      "Resonancia magnética con secuencias en fase y fuera de fase.",
+      "Tomografía computarizada (TC) sin contraste.",
+      "PET-TC con fluorodesoxiglucosa (FDG).",
+      "Tomografía computarizada (TC) con contraste."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-186",
+    "number": 186,
+    "examId": "mir2025",
+    "specialty": "Endocrinología y Nutrición",
+    "statement": "¿Cuál de las siguientes afirmaciones es correcta al comparar el tratamiento farmacológico y el tratamiento quirúrgico de la obesidad según las guías clínicas actuales?:",
+    "options": [
+      "El tratamiento farmacológico logra una pérdida de peso superior al tratamiento quirúrgico en pacientes con obesidad grave.",
+      "La cirugía bariátrica está indicada únicamente en pacientes con obesidad grado I sin comorbilidades.",
+      "El tratamiento farmacológico es más eficaz que la cirugía para mejorar la diabetes tipo 2 en pacientes con obesidad.",
+      "La cirugía bariátrica logra mayores reducciones de peso y mejoría de comorbilidades que el tratamiento farmacológico en obesidad grave."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-187",
+    "number": 187,
+    "examId": "mir2025",
+    "specialty": "Endocrinología y Nutrición",
+    "statement": "Paciente de 58 años con diagnóstico de diabetes tipo 2, HbA1c de 8,2 %, IMC de 33 kg/m2, antecedentes de infarto agudo de miocardio y Filtrado glomerular estudiado de 52 ml/min/1.73m², que actualmente recibe tratamiento con metformina. ¿Cuál sería el medicamento más apropiado para añadir a su terapia?:",
+    "options": [
+      "Insulina basal.",
+      "Pioglitazona.",
+      "Inhibidor de DPP-4 (sitagliptina).",
+      "Inhibidor de SGLT2 (empaglifozina)."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-188",
+    "number": 188,
+    "examId": "mir2025",
+    "specialty": "Endocrinología y Nutrición",
+    "statement": "¿Cuál es el rango de glucosa definido como Tiempo en Rango (TIR) durante el embarazo según el perfil glucémico ambulatorio (AGP)?:",
+    "options": [
+      "70-180 mg/dL.",
+      "70-140 mg/dL.",
+      "63-140 mg/dL.",
+      "60-130 mg/dL."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-189",
+    "number": 189,
+    "examId": "mir2025",
+    "specialty": "Endocrinología y Nutrición",
+    "statement": "Un hombre de 35 años con diabetes mellitus tipo 1 (DM1) acude a su consulta. Refiere que, por su cuenta, ha solicitado una analítica a su hijo de 8 años, completamente asintomático. El resultado muestra anticuerpos anti-GAD y anti-tirosina fosfatasa (anti-IA2) positivos, con una glucemia basal de 88 mg/dL y una HbA1c de 5.2%. El padre, muy preocupado, le pregunta qué actitud se debe tomar a continuación. Según las recomendaciones actuales, ¿cuál sería la conducta más apropiada?:",
+    "options": [
+      "Tranquilizar a la familia, ya que al estar el niño asintomático y con glucemias normales, solo requiere una vigilancia pasiva.",
+      "Iniciar tratamiento con metformina para intentar preservar la función de la célula beta.",
+      "Clasificar al niño como estadio 1 de DM1 y derivarlo a una unidad de endocrinología pediátrica para seguimiento y posible inclusión en ensayos clínicos de prevención.",
+      "Repetir la determinación de glucosa cada año, ya que el desarrollo de la enfermedad es improbable antes de la pubertad."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-190",
+    "number": 190,
+    "examId": "mir2025",
+    "specialty": "Nefrología",
+    "statement": "¿Cuál de estas patologías NO es causa de hipopotasemia?:",
+    "options": [
+      "Hipomagnesemia.",
+      "Hipoaldosteronismo.",
+      "Vómitos.",
+      "Síndrome de Bartter."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-191",
+    "number": 191,
+    "examId": "mir2025",
+    "specialty": "Nefrología",
+    "statement": "La enfermedad que más frecuentemente conduce a los programas de diálisis y trasplante en España es:",
+    "options": [
+      "Pielonefritis crónica.",
+      "Nefroesclerosis.",
+      "Poliquistosis hepato-renal.",
+      "Enfermedad renal diabética."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-192",
+    "number": 192,
+    "examId": "mir2025",
+    "specialty": "Nefrología",
+    "statement": "¿Cuál es el mejor marcador bioquímico de función renal en la práctica clínica habitual?:",
+    "options": [
+      "La Urea plasmática.",
+      "La Creatinina plasmática.",
+      "El Potasio sérico.",
+      "El filtrado glomerular estimado."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-193",
+    "number": 193,
+    "examId": "mir2025",
+    "specialty": "Ginecología y Obstetricia",
+    "statement": "Son características de la preclampsia:",
+    "options": [
+      "Hipertensión arterial, microhematuria y edemas en la última parte del embarazo.",
+      "Hipertensión arterial, microhematuria y edemas en el primer trimestre del embarazo.",
+      "Hipertensión arterial, proteinuria y edemas en la segunda mitad del embarazo.",
+      "Hipertensión arterial, proteinuria y edemas en el primer trimestre del embarazo."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-194",
+    "number": 194,
+    "examId": "mir2025",
+    "specialty": "Endocrinología y Nutrición",
+    "statement": "Un paciente de 62 años con diabetes mellitus tipo 2, en tratamiento con metformina, enalapril a dosis máximas toleradas y 10 mg diarios de empagliflozina, mantiene un buen control tensional (130/78 mmHg) y una HbA1c de 6.3 %. A pesar de ello, persiste una albuminuria con un cociente albúmina/creatinina de 160 mg/g. Su tasa de filtrado glomerular es de 65 ml/min/1.73m² y su potasio sérico es de 4.4 mEq/L. ¿Cuál sería la siguiente medida terapéutica más adecuada para reducir la progresión de su enfermedad renal diabética?:",
+    "options": [
+      "Sustituir el enalapril por un antagonista de los receptores de angiotensina II (ARA II).",
+      "Añadir un agonista del receptor de GLP-1.",
+      "Añadir finerenona (antagonista no esteroideo del receptor mineralcorticoide).",
+      "Aumentar la dosis de empaglifocina."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-195",
+    "number": 195,
+    "examId": "mir2025",
+    "specialty": "Nefrología",
+    "statement": "La policía encuentra en la calle, inconsciente e inmóvil, a altas horas de la madrugada a un indigente que presente múltiples hematomas y fetor etílico. En el hospital se detecta urea de 200 mg/dl, creatinina de 6 mg/dl, ácido úrico de 10 mg/dl y CPK de 9000 U/L. El diagnóstico probable es:",
+    "options": [
+      "Necrosis tubular aguda alcohólica.",
+      "Fracaso renal agudo por urato.",
+      "Fracaso renal agudo prerrenal por deshidratación.",
+      "Fracaso renal agudo por rabdomiolisis."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-196",
+    "number": 196,
+    "examId": "mir2025",
+    "specialty": "Toxicología",
+    "statement": "Paciente de 23 años, que es llevado a un servicio de urgencias hospitalario por haber sido encontrado en calle con bajo nivel de conciencia. A su llegada el paciente responde a estímulos dolorosos intensos, tiene una frecuencia cardiaca de 40 latidos por minuto, unas cifras de presión arterial de 90/60 mmHg, sin fiebre y unas pupilas puntiformes. Ante la sospecha de una intoxicación, ¿cuál de los siguientes antídotos estaría más indicado?:",
+    "options": [
+      "Naloxona.",
+      "Flumazenilo.",
+      "Atropina.",
+      "Pralidoxima."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-197",
+    "number": 197,
+    "examId": "mir2025",
+    "specialty": "Cardiología",
+    "statement": "Paciente de 88 años con antecedentes de Hipertensión Arterial, Diabetes Mellitus y Cardiopatía Isquémica Crónica que acude a urgencias por disnea de aparición súbita, con ortopnea, disnea paroxística nocturna y edemas en miembros inferiores hasta raíz de muslo. En el triage de urgencias tiene unas cifras de presión arterial de 190/70, una frecuencia cardiaca de 123 latidos por minuto y una saturación capilar de oxígeno del 89%. ¿Cuál de las siguientes medidas terapéuticas NO está indicada de inicio en el manejo de este paciente?:",
+    "options": [
+      "Oxigenoterapia.",
+      "Nitroglicerina intravenosa.",
+      "Morfina intravenosa.",
+      "Diuréticos intravenosos."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-198",
+    "number": 198,
+    "examId": "mir2025",
+    "specialty": "Traumatología y Cirugía Ortopédica",
+    "statement": "Paciente de 18 años, politraumatizado grave tras caída de un patinete. En el manejo inicial, dentro de la evaluación primaria y soporte vital ¿Cuál es la primera acción que debemos realizar?:",
+    "options": [
+      "Cohibir la hemorragia externa, exanguinante o masiva.",
+      "Asegurar la permeabilidad de la vía aérea.",
+      "Asegurar una correcta ventilación/oxigenación.",
+      "Identificar y tratar el shock."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-199",
+    "number": 199,
+    "examId": "mir2025",
+    "specialty": "Geriatría",
+    "statement": "Paciente de 76 años, sin comorbilidad conocida que sufre una caída causal desde una escalera sufriendo un traumatismo craneal y cervical. Atendido inicialmente por un familiar, que le coloca en posición lateral de seguridad mientras espera la llegada de las asistencias sanitarias. A la llegada del personal del SAMU el paciente se encuentra inconsciente. ¿Cuál de las siguientes afirmaciones es FALSA sobre el manejo de la vía aérea?:",
+    "options": [
+      "La apertura de la vía aérea mediante tracción mandibular es la maniobra de elección.",
+      "Lo prioritario es colocar un collarín cervical rígido.",
+      "La apertura de la vía aérea es prioritaria en un paciente con un traumatismo.",
+      "Una vez abierta la vía aérea, es recomendable usar un dispositivo orofaríngeo."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-200",
+    "number": 200,
+    "examId": "mir2025",
+    "specialty": "Medicina Legal y Bioética",
+    "statement": "En relación con la violencia de género, señale la afirmación correcta:",
+    "options": [
+      "Se produce con mayor frecuencia en familias desestructuradas y con pocos recursos económicos.",
+      "Los agresores presentan con frecuencia trastornos psiquiátricos graves que explican la conducta violenta.",
+      "Las víctimas rara vez acuden a los servicios sanitarios por miedo a ser identificadas como víctimas.",
+      "El embarazo es un periodo de riesgo para el inicio o agravamiento de la violencia de género."
+    ],
+    "correctIndex": 3,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-201",
+    "number": 201,
+    "examId": "mir2025",
+    "specialty": "Alergología",
+    "statement": "¿Cuál de las siguientes opciones es el tratamiento de primera línea más eficaz para aliviar la congestión nasal y los síntomas oculares establecidos en la rinitis alérgica persistente y moderada?:",
+    "options": [
+      "Antihistamínicos orales de primera generación, como la difenhidramina, debido a su efecto rápido.",
+      "Descongestionantes nasales tópicos usados prolongadamente para un control sostenido de la congestión.",
+      "Corticosteroides intranasales de alta potencia, para aliviar síntomas nasales y oculares con menos efectos sistémicos.",
+      "Cromoglicato sódico por vía oral como único tratamiento en síntomas moderados persistentes."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-202",
+    "number": 202,
+    "examId": "mir2025",
+    "specialty": "Angiología y Cirugía Vascular",
+    "statement": "Respecto a la Trombosis Venosa Profunda, señale lo correcto:",
+    "options": [
+      "Tras la sospecha clínica, el diagnóstico suele realizarse mediante ecografía doppler.",
+      "Los pacientes con factores de riesgo o trombosis venosas de repetición suelen precisar anticoagulación durante 12 meses.",
+      "Por norma general, la anticoagulación se suele mantener durante 3 semanas.",
+      "La tasa de recidiva es del 60%."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-203",
+    "number": 203,
+    "examId": "mir2025",
+    "specialty": "Microbiología",
+    "statement": "¿Cuál de los siguientes microorganismos no es habitual en las infecciones del tracto urinario?:",
+    "options": [
+      "Clostridium perfringens.",
+      "Klebsiella pneumoniae.",
+      "Pseudomonas aeruginosa.",
+      "Staphylococcus saprophyticus."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-204",
+    "number": 204,
+    "examId": "mir2025",
+    "specialty": "Oftalmología",
+    "statement": "¿Qué hallazgo clínico es más característico de una ParsPlanitis?:",
+    "options": [
+      "Acumulo de material inflamatorio en el vitreo (vitritis).",
+      "Periflebitis periférica.",
+      "Aparición de bancos o copos de nieve en la base del vítreo.",
+      "Edema de papila."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-205",
+    "number": 205,
+    "examId": "mir2025",
+    "specialty": "Medicina Familiar y Comunitaria",
+    "statement": "La participación activa en Atención Primaria es un concepto clave dentro del modelo de salud comunitaria y centrada en la persona. Se refiere a la implicación real y continua de los pacientes, sus familias y la comunidad en las decisiones y acciones relacionadas con su salud, tanto a nivel individual como colectivo. ¿Cuál de las siguientes afirmaciones, refleja mejor el concepto de participación activa en la Atención Primaria?:",
+    "options": [
+      "Los profesionales de salud deben responder a las demandas explícitas de los pacientes cuando éstos acuden a consulta.",
+      "Los equipos de atención primaria deben ser proactivos, abordando tanto las necesidades expresadas por los pacientes como aquellas que no han sido verbalizadas.",
+      "Los pacientes son responsables de expresar todas sus necesidades para que el equipo de atención primaria pueda ofrecer la atención adecuada.",
+      "La participación activa se refiere exclusivamente a la implicación de la comunidad en las decisiones sobre políticas de salud."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-206",
+    "number": 206,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Un hombre de 62 años es diagnosticado de adenocarcinoma de recto medio, confirmado por biopsia endoscópica. La tomografía computarizada toracoabdominopélvica no muestra metástasis a distancia. ¿Qué prueba de imagen es más adecuada para identificar la mejor opción terapéutica local en este paciente?:",
+    "options": [
+      "Tomografía computerizada de abdomen y pelvis con contraste intravenoso y angiografía (angio TAC).",
+      "Tomografía por emisión de positrones de pelvis combinada con Tomografía computerizada (PET/TC).",
+      "Resonancia magnética pélvica (RMN) con secuencias de alta resolución del mesorrecto, con o sin contraste.",
+      "Ecografía combinada abdomino-pélvica y endorrectal."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-207",
+    "number": 207,
+    "examId": "mir2025",
+    "specialty": "Geriatría",
+    "statement": "Una paciente de 87 años acude a la consulta de su médico de Atención Primaria en el contexto de una evaluación geriátrica. Al cuantificar el SPPB (Short Physical Performance Battery o Prueba corta de desempeño físico) observamos que en el test de equilibrio aguanta más de 10 segundos en cada una de las tres pruebas (con los pies juntos, en semitándem y tándem). Además, al medir la velocidad de la marcha tarda menos de 4,82 segundos en recorrer 4 metros y en el test de levantarse de la silla 5 veces tarda menos de 11,2 segundos. Calcule su resultado en el SPPB:",
+    "options": [
+      "12 puntos.",
+      "10 puntos.",
+      "8 puntos.",
+      "6 puntos."
+    ],
+    "correctIndex": 0,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-208",
+    "number": 208,
+    "examId": "mir2025",
+    "specialty": "Aparato Digestivo",
+    "statement": "Mujer de 67 años diagnosticada de cirrosis hepática, con antecedentes de descompensaciones ascíticas en tratamiento con espironolactona y furosemida. Su familia la trae a urgencias por alteración del nivel de conciencia. La paciente se encuentra ligeramente desorientada en tiempo y espacio y somnolienta. Tiene asterixis franca. ¿Cuál de las siguientes medidas NO se encuentra indicada a su ingreso?:",
+    "options": [
+      "Paracentesis diagnóstica.",
+      "Medición de los niveles plasmáticos de amoniaco.",
+      "Administración de lactulosa por vía oral.",
+      "Antibioterapia de amplio espectro."
+    ],
+    "correctIndex": null,
+    "annulled": true,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-209",
+    "number": 209,
+    "examId": "mir2025",
+    "specialty": "Rehabilitación y Medicina Física",
+    "statement": "En el abordaje terapéutico de un paciente adulto con lesión medular y presencia de espasticidad generalizada en la exploración, ¿cuál de estos fármacos NO utilizaría como tratamiento?:",
+    "options": [
+      "Diazepam.",
+      "Lacosamida.",
+      "Tizanidina.",
+      "Baclofeno."
+    ],
+    "correctIndex": 1,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  },
+  {
+    "id": "mir2025-210",
+    "number": 210,
+    "examId": "mir2025",
+    "specialty": "Neurología y Neurocirugía",
+    "statement": "En relación con el pseudotumor cerebri o hipertensión intracraneal idiopática (HII), ¿cuál de las siguientes afirmaciones es correcta?:",
+    "options": [
+      "Es más frecuente en hombres ancianos con índice de masa corporal (IMC) bajo.",
+      "Se caracteriza por aumento de la presión de apertura del LCR con composición anormal.",
+      "Afecta preferentemente a mujeres jóvenes obesas y puede causar pérdida visual.",
+      "El tratamiento inicial consiste en corticoides a dosis altas y restricción hídrica estricta."
+    ],
+    "correctIndex": 2,
+    "annulled": false,
+    "images": [],
+    "explanation": null
+  }
+]

@@ -1,0 +1,34 @@
+name: MIRSimulador
+options:
+  bundleIdPrefix: com.jpgarcia.mirsimulador
+  deploymentTarget:
+    iOS: "16.0"
+targets:
+  MIRSimulador:
+    type: application
+    platform: iOS
+    sources:
+      - path: Sources
+      - path: Resources/Exams
+        type: folder
+        buildPhase: resources
+    info:
+      path: Generated/Info.plist
+      properties:
+        CFBundleDisplayName: MIR Simulador
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+        ITSAppUsesNonExemptEncryption: false
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.jpgarcia.mirsimulador
+        TARGETED_DEVICE_FAMILY: "1"
+        SWIFT_VERSION: "5.0"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        DEVELOPMENT_TEAM: ""
+        CODE_SIGN_STYLE: Automatic
+    scheme:
+      testTargets: []
+      gatherCoverageData: false

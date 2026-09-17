@@ -1,2 +1,91 @@
-# MIR
-Simulador de MIR
+# MIR Simulador
+
+App nativa para iPhone (SwiftUI, iOS 16+, compatible con iPhone 12 mini o superior) para practicar el examen MIR de acceso a especialidades de Medicina en España.
+
+## Funcionalidades
+
+- **Practicar por especialidad**: las preguntas se agrupan automáticamente por especialidad médica (Cardiología, Digestivo, Pediatría, etc.), con corrección inmediata al responder.
+- **Practicar por examen**: simula un examen completo en el orden y formato originales, corrección al final y hoja de resultados con nota estimada (regla de 3 fallos = -1 acierto).
+- **Imágenes clínicas**: las preguntas que dependen de una imagen (radiografías, ECG, biopsias, árboles genealógicos, etc.) la muestran inline, con zoom a pantalla completa.
+- **Estadísticas**: aciertos/fallos globales y por especialidad, guardados localmente en el dispositivo.
+- **Explicaciones**: cada pregunta tiene un campo de explicación ya preparado en el modelo de datos (`explanation`). Hoy aparece como "explicación pendiente"; se puede ir rellenando pregunta a pregunta sin tocar el resto de la app (ver más abajo).
+
+## Datos incluidos
+
+El banco de preguntas se basa en el **examen oficial MIR 2025** (convocatoria de Medicina), publicado por el Ministerio de Sanidad:
+
+- Las 210 preguntas del cuadernillo de examen (200 + 10 de reserva), extraídas del PDF oficial.
+- Las respuestas correctas aprobadas **definitivamente** por la Comisión Calificadora (incluye las 7 preguntas anuladas: 13, 50, 64, 139, 142, 161 y 208, marcadas como tales en la app en vez de mostrar una respuesta correcta inventada).
+- Las 25 imágenes clínicas del cuadernillo de imágenes, recortadas y asociadas a su pregunta.
+- La clasificación por especialidad **no es oficial**: el Ministerio no publica las preguntas etiquetadas por especialidad, así que se ha hecho una clasificación temática orientativa (la que usan habitualmente las academias) pregunta a pregunta. El enunciado, las opciones y la respuesta correcta sí son el texto oficial tal cual se publicó (incluida, por ejemplo, la errata real del Ministerio en la pregunta 161, que es precisamente la razón por la que esa pregunta fue anulada).
+
+Todo el contenido vive en `Resources/Exams/mir2025/`:
+- `questions.json`: array de preguntas (ver esquema abajo).
+- `images/*.png`: imágenes referenciadas por las preguntas.
+
+### Esquema de `questions.json`
+
+```json
+{
+  "id": "mir2025-001",
+  "number": 1,
+  "examId": "mir2025",
+  "specialty": "Traumatología y Cirugía Ortopédica",
+  "statement": "Enunciado de la pregunta...",
+  "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+  "correctIndex": 0,
+  "annulled": false,
+  "images": ["imagen_1"],
+  "explanation": null
+}
+```
+
+## Cómo añadir explicaciones
+
+Edita `Resources/Exams/mir2025/questions.json` y rellena el campo `"explanation"` de la pregunta que quieras (texto libre en español). La app la mostrará automáticamente la próxima vez que se abra esa pregunta; si el campo es `null` o está vacío, se sigue mostrando el aviso de "explicación pendiente". No hace falta tocar nada de código Swift.
+
+## Cómo añadir más exámenes (2024, 2023, ...)
+
+1. Repite el proceso de extracción con los PDFs oficiales del Ministerio de Sanidad (enunciado + respuestas correctas, y cuadernillo de imágenes si lo hay). En `Tools/` se incluyen los scripts Python usados para el examen 2025 como punto de partida (extracción de texto por columnas con `pdfplumber`, extracción de la clave de respuestas por posición de palabra, y recorte de imágenes).
+2. Genera un `questions.json` con el mismo esquema, usando un `examId` nuevo (por ejemplo `"mir2024"`) y las especialidades del catálogo en `Sources/Models/Specialty.swift` (o añade especialidades nuevas si hace falta).
+3. Copia el resultado a `Resources/Exams/<examId>/questions.json` (+ `images/` si aplica).
+4. Registra el examen en `QuestionRepository.load()` (`Sources/Data/QuestionRepository.swift`), añadiendo una entrada más al array `exams`.
+
+## Cómo compilar y ejecutar (necesitas un Mac con Xcode)
+
+Este proyecto usa [XcodeGen](https://github.com/yonaskolb/XcodeGen) para generar el `.xcodeproj` a partir de `project.yml`, así el proyecto se mantiene como texto plano y es fácil de versionar.
+
+```bash
+brew install xcodegen
+cd MIR
+xcodegen generate
+open MIRSimulador.xcodeproj
+```
+
+En Xcode, selecciona un simulador de iPhone 12 mini (o cualquier iPhone más reciente) o tu dispositivo físico, y pulsa Run (⌘R). El target mínimo es iOS 16.0.
+
+Si prefieres no instalar XcodeGen, puedes crear un proyecto "App" nuevo en Xcode (SwiftUI, iOS 16) y arrastrar dentro las carpetas `Sources/` y `Resources/Exams/` (marcando esta última como "Create folder references", no como grupo, para que se mantenga la estructura de subcarpetas).
+
+## Estructura del proyecto
+
+```
+project.yml                  # definición del proyecto Xcode (XcodeGen)
+Sources/
+  App/                        # punto de entrada de la app
+  Models/                     # Question, Specialty, Stats
+  Data/                       # QuestionRepository, StatsStore, QuizSession
+  Views/                      # pantallas SwiftUI
+  Assets.xcassets/            # icono y color de acento (a personalizar)
+Resources/
+  Exams/mir2025/
+    questions.json
+    images/
+Tools/                        # scripts usados para extraer el examen 2025 de los PDFs oficiales
+```
+
+## Pendiente / ideas de mejora
+
+- Sustituir el icono de la app (`Sources/Assets.xcassets/AppIcon.appiconset`) por uno propio (hoy está vacío).
+- Añadir más exámenes de años anteriores.
+- Ir incorporando explicaciones pregunta a pregunta.
+- Modo "repasar solo falladas".
