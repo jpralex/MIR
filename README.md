@@ -83,9 +83,22 @@ Resources/
 Tools/                        # scripts usados para extraer el examen 2025 de los PDFs oficiales
 ```
 
-## Pendiente / ideas de mejora
+## Próxima ronda (pendiente de ejecutar)
 
-- Sustituir el icono de la app (`Sources/Assets.xcassets/AppIcon.appiconset`) por uno propio (hoy está vacío).
+Planificado el 2026-09-19 para retomar en la siguiente sesión. Como el entorno de esta sesión es efímero (se recicla por inactividad) y los cron jobs de esta herramienta no sobreviven al cierre de la sesión, no se programó nada automático: hay que pedir explícitamente que se continúe por aquí.
+
+1. **Estado vacío sin acción** (Low, de la auditoría de diseño anterior)
+   - Dónde: `Sources/Views/QuizView.swift`, `ContentUnavailableFallback` (se muestra cuando `session.current` es `nil`, hoy una ruta inalcanzable con los datos actuales, pero conviene dejarla correcta).
+   - Qué falta: `writing.md › Best practices`: "Provide clear next steps on any blank screens... give them a button or link to do so if possible." Hoy el texto ("No hay preguntas disponibles") no ofrece ninguna acción.
+   - Arreglo propuesto: añadir un botón "Volver" que use el `AppRouter` (`router.returnToHome()`) ya existente, igual que en `ResultsView`.
+
+2. **Icono de la app** (`Sources/Assets.xcassets/AppIcon.appiconset`, hoy vacío)
+   - Guía aplicable (`app-icons.md`): icono simple, un único concepto reconocible, formas sólidas/superpuestas, sin texto salvo que sea esencial, fondo liso o degradado a pantalla completa, PNG 1024×1024 sin máscara de esquinas (el sistema la aplica).
+   - Concepto propuesto: algo que diga "examen médico tipo test", no un cruz médica genérica — por ejemplo un estetoscopio simple en blanco sobre fondo con el azul de `AccentColor` (o su degradado), o una insignia circular tipo "opción marcada" (un círculo relleno, a modo de burbuja de respuesta correcta) superpuesto a una silueta médica sencilla. A decidir/afinar mañana con el usuario antes de generarlo.
+   - Cómo ejecutarlo sin Mac: generar el PNG 1024×1024 con Python/Pillow (ya hay un entorno con Pillow en `/tmp/mirvenv` de la sesión anterior, o crear uno nuevo) y colocarlo en `Sources/Assets.xcassets/AppIcon.appiconset/`, actualizando su `Contents.json` para referenciarlo como icono "universal" (ya está declarado el tamaño 1024×1024, solo falta añadir el fichero y el campo `"filename"`).
+
+## Otras ideas de mejora (sin fecha)
+
 - Añadir más exámenes de años anteriores.
 - Ir incorporando explicaciones pregunta a pregunta.
 - Modo "repasar solo falladas".
