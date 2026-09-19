@@ -4,6 +4,7 @@ struct QuizView: View {
     @StateObject var session: QuizSession
     @EnvironmentObject var statsStore: StatsStore
     @EnvironmentObject var repository: QuestionRepository
+    @State private var showsUnansweredWarning = false
 
     var body: some View {
         Group {
@@ -44,12 +45,15 @@ struct QuizView: View {
                             FeedbackPanel(question: question)
                                 .padding(.horizontal)
                         }
-
-                        navigationButtons
-                            .padding(.horizontal)
-                            .padding(.bottom, 24)
                     }
                     .padding(.top, 8)
+                    .padding(.bottom, 12)
+                }
+                .safeAreaInset(edge: .bottom) {
+                    navigationButtons
+                        .padding(.horizontal)
+                        .padding(.vertical, 10)
+                        .background(.bar)
                 }
             } else {
                 ContentUnavailableFallback()
@@ -59,6 +63,18 @@ struct QuizView: View {
         .navigationBarTitleDisplayMode(.inline)
         .navigationDestination(isPresented: $session.isFinished) {
             ResultsView(session: session)
+        }
+        .confirmationDialog(
+            "Quedan \(unansweredCount) preguntas sin responder",
+            isPresented: $showsUnansweredWarning,
+            titleVisibility: .visible
+        ) {
+            Button("Finalizar de todas formas", role: .destructive) {
+                finishExam()
+            }
+            Button("Seguir respondiendo", role: .cancel) {}
+        } message: {
+            Text("Si finalizas ahora, esas preguntas se contarán como no respondidas y no podrás volver a cambiarlas.")
         }
     }
 
@@ -97,17 +113,29 @@ struct QuizView: View {
         return session.selectedByQuestion[question.id] != nil
     }
 
+    private var unansweredCount: Int {
+        session.questions.count - session.answeredCount
+    }
+
     private func advance() {
         if isLastQuestion {
-            finishIfNeeded()
-            session.isFinished = true
+            if session.mode == .exam && unansweredCount > 0 {
+                showsUnansweredWarning = true
+            } else {
+                finishExam()
+            }
         } else {
             session.goNext()
         }
     }
 
-    private func finishIfNeeded() {
-        guard session.mode == .exam else { return }
+    private func finishExam() {
+        recordExamResultsIfNeeded()
+        session.isFinished = true
+    }
+
+    private func recordExamResultsIfNeeded() {
+        guard session.mode == .exam, session.markResultsRecordedIfNeeded() else { return }
         for question in session.scoreableQuestions {
             guard let selected = session.selectedByQuestion[question.id] else { continue }
             statsStore.record(questionId: question.id, selectedIndex: selected, wasCorrect: selected == question.correctIndex)
@@ -161,4 +189,5 @@ private struct ContentUnavailableFallback: View {
     }
     .environmentObject(QuestionRepository.shared)
     .environmentObject(StatsStore.shared)
+    .environmentObject(AppRouter())
 }

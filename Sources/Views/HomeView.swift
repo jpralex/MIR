@@ -3,6 +3,7 @@ import SwiftUI
 struct HomeView: View {
     @EnvironmentObject var repository: QuestionRepository
     @EnvironmentObject var statsStore: StatsStore
+    @StateObject private var router = AppRouter()
 
     var body: some View {
         NavigationStack {
@@ -34,6 +35,8 @@ struct HomeView: View {
             }
             .navigationTitle("MIR Simulador")
         }
+        .id(router.resetToken)
+        .environmentObject(router)
     }
 }
 

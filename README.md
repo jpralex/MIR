@@ -89,3 +89,17 @@ Tools/                        # scripts usados para extraer el examen 2025 de lo
 - Añadir más exámenes de años anteriores.
 - Ir incorporando explicaciones pregunta a pregunta.
 - Modo "repasar solo falladas".
+
+## Revisión de diseño (Apple HIG)
+
+Se pasó una auditoría de diseño completa contra las Human Interface Guidelines de Apple (accesibilidad, convenciones de plataforma, tipografía/color, interacción). Ya están corregidos:
+
+- Contraste del color de acento en modo oscuro (antes 1.4:1, ahora >5:1), con variante clara/oscura en `AccentColor.colorset`.
+- Bug de estadísticas duplicadas si se vuelve a "Finalizar" un examen tras revisarlo (`QuizSession.markResultsRecordedIfNeeded()`).
+- El círculo con la letra de cada opción ya escala con Dynamic Type en vez de recortarse en tamaños de texto grandes.
+- Etiquetas de accesibilidad (VoiceOver) en las imágenes clínicas, el estado de cada opción (correcta/incorrecta/seleccionada) y el botón de cerrar del visor de imágenes.
+- Botones "Anterior/Siguiente/Finalizar" fijos en una barra inferior en vez de al final del scroll.
+- Aviso de confirmación si se intenta finalizar un examen con preguntas sin responder.
+- Botón "Inicio" para volver directamente a la pantalla principal desde los resultados.
+- Zoom por pellizco acumulativo con desplazamiento (pan) en las imágenes clínicas ampliadas, en vez de reiniciarse en cada gesto.
+- Texto de especialidad apilado bajo el número de pregunta en el repaso de resultados, para que no se apriete con texto grande.

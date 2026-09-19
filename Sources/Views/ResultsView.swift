@@ -2,13 +2,14 @@ import SwiftUI
 
 struct ResultsView: View {
     @ObservedObject var session: QuizSession
+    @EnvironmentObject var router: AppRouter
 
     var body: some View {
         List {
             Section {
                 VStack(spacing: 8) {
                     Text("\(session.correctCount) / \(session.scoreableQuestions.count)")
-                        .font(.system(size: 44, weight: .bold, design: .rounded))
+                        .font(.system(.largeTitle, design: .rounded).bold())
                     Text("respuestas correctas")
                         .foregroundStyle(.secondary)
                     if session.mode == .exam {
@@ -26,20 +27,27 @@ struct ResultsView: View {
                     NavigationLink {
                         QuestionReviewView(question: question, selectedIndex: session.selectedByQuestion[question.id])
                     } label: {
-                        HStack {
+                        HStack(alignment: .top, spacing: 10) {
                             statusIcon(for: question)
-                            Text("Pregunta \(question.number)")
-                            Spacer()
-                            Text(question.specialty)
-                                .font(.caption)
-                                .foregroundStyle(.secondary)
-                                .lineLimit(1)
+                            VStack(alignment: .leading, spacing: 2) {
+                                Text("Pregunta \(question.number)")
+                                Text(question.specialty)
+                                    .font(.caption)
+                                    .foregroundStyle(.secondary)
+                            }
                         }
                     }
                 }
             }
         }
         .navigationTitle("Resultados")
+        .toolbar {
+            ToolbarItem(placement: .topBarTrailing) {
+                Button("Inicio") {
+                    router.returnToHome()
+                }
+            }
+        }
     }
 
     private var scoreLine: String {

@@ -17,7 +17,7 @@ struct AnswerOptionView: View {
             HStack(alignment: .top, spacing: 12) {
                 Text(Self.letters[safe: index] ?? "?")
                     .font(.subheadline.bold())
-                    .frame(width: 26, height: 26)
+                    .frame(minWidth: 26, minHeight: 26)
                     .background(badgeColor.opacity(0.15))
                     .foregroundStyle(badgeColor)
                     .clipShape(Circle())
@@ -41,6 +41,19 @@ struct AnswerOptionView: View {
             .clipShape(RoundedRectangle(cornerRadius: 12))
         }
         .buttonStyle(.plain)
+        .accessibilityElement(children: .ignore)
+        .accessibilityLabel(accessibilityLabel)
+        .accessibilityAddTraits(state == .selected ? [.isButton, .isSelected] : .isButton)
+    }
+
+    private var accessibilityLabel: String {
+        let letter = Self.letters[safe: index] ?? "?"
+        switch state {
+        case .correct: return "Opción \(letter): \(text). Respuesta correcta."
+        case .incorrect: return "Opción \(letter): \(text). Tu respuesta, incorrecta."
+        case .selected: return "Opción \(letter): \(text). Seleccionada."
+        case .idle: return "Opción \(letter): \(text)."
+        }
     }
 
     private var badgeColor: Color {

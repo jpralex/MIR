@@ -14,6 +14,7 @@ final class QuizSession: ObservableObject {
     @Published var currentIndex: Int = 0
     @Published var selectedByQuestion: [String: Int] = [:]
     @Published var isFinished: Bool = false
+    private(set) var hasRecordedResults = false
 
     init(title: String, questions: [Question], mode: QuizMode = .practice) {
         self.title = title
@@ -45,6 +46,16 @@ final class QuizSession: ObservableObject {
 
     func goPrevious() {
         if currentIndex > 0 { currentIndex -= 1 }
+    }
+
+    /// Marca esta sesión como ya registrada en las estadísticas, para que
+    /// volver a "Finalizar" tras revisar el examen no cuente las respuestas
+    /// dos veces. Devuelve `true` la primera vez (hay que registrar) y
+    /// `false` en cualquier llamada posterior.
+    func markResultsRecordedIfNeeded() -> Bool {
+        guard !hasRecordedResults else { return false }
+        hasRecordedResults = true
+        return true
     }
 
     func isCorrect(_ question: Question) -> Bool? {
